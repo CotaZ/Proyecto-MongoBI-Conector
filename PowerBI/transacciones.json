@@ -1,0 +1,2002 @@
+[
+    {
+        "Transaccion_ID": "T1",
+        "User_ID": "U128",
+        "Producto": "Cinta de correr",
+        "Categoria": "Deportes",
+        "Cantidad": 2,
+        "Precio_Unitario": 93,
+        "Total": 186,
+        "Fecha_de_Compra": "2023-11-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T2",
+        "User_ID": "U109",
+        "Producto": "Auriculares Bluetooth",
+        "Categoria": "Electronica",
+        "Cantidad": 3,
+        "Precio_Unitario": 114,
+        "Total": 342,
+        "Fecha_de_Compra": "2023-06-24 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T3",
+        "User_ID": "U134",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 84,
+        "Total": 84,
+        "Fecha_de_Compra": "2023-04-01 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T4",
+        "User_ID": "U018",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 314,
+        "Total": 314,
+        "Fecha_de_Compra": "2023-12-09 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T5",
+        "User_ID": "U009",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 143,
+        "Total": 429,
+        "Fecha_de_Compra": "2023-06-25 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T6",
+        "User_ID": "U091",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 307,
+        "Total": 1228,
+        "Fecha_de_Compra": "2023-11-17 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T7",
+        "User_ID": "U001",
+        "Producto": "Zapatillas",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 311,
+        "Total": 311,
+        "Fecha_de_Compra": "2023-10-07 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T8",
+        "User_ID": "U067",
+        "Producto": "Camiseta",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 60,
+        "Total": 60,
+        "Fecha_de_Compra": "2023-07-25 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T9",
+        "User_ID": "U008",
+        "Producto": "Zapatillas",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 202,
+        "Total": 404,
+        "Fecha_de_Compra": "2023-03-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T10",
+        "User_ID": "U188",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 37,
+        "Total": 148,
+        "Fecha_de_Compra": "2023-07-06 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T11",
+        "User_ID": "U089",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 5,
+        "Precio_Unitario": 169,
+        "Total": 845,
+        "Fecha_de_Compra": "2023-10-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T12",
+        "User_ID": "U060",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 200,
+        "Total": 800,
+        "Fecha_de_Compra": "2023-12-23 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T13",
+        "User_ID": "U049",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 322,
+        "Total": 966,
+        "Fecha_de_Compra": "2023-06-22 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T14",
+        "User_ID": "U115",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 63,
+        "Total": 252,
+        "Fecha_de_Compra": "2023-07-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T15",
+        "User_ID": "U155",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 435,
+        "Total": 435,
+        "Fecha_de_Compra": "2023-03-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T16",
+        "User_ID": "U047",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 339,
+        "Total": 1356,
+        "Fecha_de_Compra": "2023-01-18 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T17",
+        "User_ID": "U131",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 244,
+        "Total": 244,
+        "Fecha_de_Compra": "2023-01-08 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T18",
+        "User_ID": "U174",
+        "Producto": "Auriculares Bluetooth",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 188,
+        "Total": 940,
+        "Fecha_de_Compra": "2023-07-20 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T19",
+        "User_ID": "U001",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 386,
+        "Total": 386,
+        "Fecha_de_Compra": "2023-12-03 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T20",
+        "User_ID": "U200",
+        "Producto": "Tablet",
+        "Categoria": "Electronica",
+        "Cantidad": 3,
+        "Precio_Unitario": 257,
+        "Total": 771,
+        "Fecha_de_Compra": "2023-07-22 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T21",
+        "User_ID": "U156",
+        "Producto": "Tablet",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 178,
+        "Total": 890,
+        "Fecha_de_Compra": "2023-07-27 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T22",
+        "User_ID": "U096",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 329,
+        "Total": 987,
+        "Fecha_de_Compra": "2023-11-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T23",
+        "User_ID": "U132",
+        "Producto": "Auriculares Bluetooth",
+        "Categoria": "Electronica",
+        "Cantidad": 3,
+        "Precio_Unitario": 308,
+        "Total": 924,
+        "Fecha_de_Compra": "2023-05-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T24",
+        "User_ID": "U139",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 208,
+        "Total": 416,
+        "Fecha_de_Compra": "2023-07-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T25",
+        "User_ID": "U190",
+        "Producto": "Zapatillas",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 238,
+        "Total": 714,
+        "Fecha_de_Compra": "2023-10-28 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T26",
+        "User_ID": "U040",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 488,
+        "Total": 976,
+        "Fecha_de_Compra": "2023-03-19 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T27",
+        "User_ID": "U055",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 409,
+        "Total": 409,
+        "Fecha_de_Compra": "2023-03-04 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T28",
+        "User_ID": "U132",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 3,
+        "Precio_Unitario": 301,
+        "Total": 903,
+        "Fecha_de_Compra": "2023-04-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T29",
+        "User_ID": "U040",
+        "Producto": "Pesas",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 235,
+        "Total": 705,
+        "Fecha_de_Compra": "2023-05-08 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T30",
+        "User_ID": "U088",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 5,
+        "Precio_Unitario": 429,
+        "Total": 2145,
+        "Fecha_de_Compra": "2023-08-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T31",
+        "User_ID": "U081",
+        "Producto": "Silla de oficina",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 491,
+        "Total": 2455,
+        "Fecha_de_Compra": "2023-02-18 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T32",
+        "User_ID": "U158",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 1,
+        "Precio_Unitario": 232,
+        "Total": 232,
+        "Fecha_de_Compra": "2023-09-06 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T33",
+        "User_ID": "U106",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 2,
+        "Precio_Unitario": 68,
+        "Total": 136,
+        "Fecha_de_Compra": "2023-09-24 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T34",
+        "User_ID": "U078",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 232,
+        "Total": 464,
+        "Fecha_de_Compra": "2023-04-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T35",
+        "User_ID": "U064",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 220,
+        "Total": 220,
+        "Fecha_de_Compra": "2023-08-01 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T36",
+        "User_ID": "U006",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 456,
+        "Total": 1824,
+        "Fecha_de_Compra": "2023-08-09 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T37",
+        "User_ID": "U003",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 383,
+        "Total": 1915,
+        "Fecha_de_Compra": "2023-05-12 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T38",
+        "User_ID": "U037",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 144,
+        "Total": 288,
+        "Fecha_de_Compra": "2023-12-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T39",
+        "User_ID": "U155",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 191,
+        "Total": 191,
+        "Fecha_de_Compra": "2023-07-04 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T40",
+        "User_ID": "U185",
+        "Producto": "Zapatillas",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 52,
+        "Total": 104,
+        "Fecha_de_Compra": "2023-01-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T41",
+        "User_ID": "U185",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 119,
+        "Total": 119,
+        "Fecha_de_Compra": "2023-12-22 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T42",
+        "User_ID": "U120",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 4,
+        "Precio_Unitario": 81,
+        "Total": 324,
+        "Fecha_de_Compra": "2023-03-31 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T43",
+        "User_ID": "U148",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 78,
+        "Total": 156,
+        "Fecha_de_Compra": "2023-11-19 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T44",
+        "User_ID": "U128",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 5,
+        "Precio_Unitario": 460,
+        "Total": 2300,
+        "Fecha_de_Compra": "2023-12-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T45",
+        "User_ID": "U123",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 89,
+        "Total": 89,
+        "Fecha_de_Compra": "2023-04-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T46",
+        "User_ID": "U192",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 5,
+        "Precio_Unitario": 125,
+        "Total": 625,
+        "Fecha_de_Compra": "2023-03-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T47",
+        "User_ID": "U113",
+        "Producto": "Camiseta",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 461,
+        "Total": 922,
+        "Fecha_de_Compra": "2023-01-24 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T48",
+        "User_ID": "U147",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 480,
+        "Total": 1920,
+        "Fecha_de_Compra": "2023-05-29 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T49",
+        "User_ID": "U158",
+        "Producto": "Bolso de mano",
+        "Categoria": "Accesorios",
+        "Cantidad": 5,
+        "Precio_Unitario": 347,
+        "Total": 1735,
+        "Fecha_de_Compra": "2023-04-17 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T50",
+        "User_ID": "U034",
+        "Producto": "Silla de oficina",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 70,
+        "Total": 280,
+        "Fecha_de_Compra": "2023-04-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T51",
+        "User_ID": "U154",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 134,
+        "Total": 134,
+        "Fecha_de_Compra": "2023-05-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T52",
+        "User_ID": "U037",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 372,
+        "Total": 372,
+        "Fecha_de_Compra": "2023-02-18 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T53",
+        "User_ID": "U125",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 2,
+        "Precio_Unitario": 214,
+        "Total": 428,
+        "Fecha_de_Compra": "2023-08-23 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T54",
+        "User_ID": "U055",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 2,
+        "Precio_Unitario": 236,
+        "Total": 472,
+        "Fecha_de_Compra": "2023-08-18 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T55",
+        "User_ID": "U069",
+        "Producto": "Raqueta de tenis",
+        "Categoria": "Deportes",
+        "Cantidad": 1,
+        "Precio_Unitario": 252,
+        "Total": 252,
+        "Fecha_de_Compra": "2023-04-23 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T56",
+        "User_ID": "U011",
+        "Producto": "Reloj",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 306,
+        "Total": 1224,
+        "Fecha_de_Compra": "2023-10-04 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T57",
+        "User_ID": "U173",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 135,
+        "Total": 405,
+        "Fecha_de_Compra": "2023-01-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T58",
+        "User_ID": "U180",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 103,
+        "Total": 206,
+        "Fecha_de_Compra": "2023-04-23 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T59",
+        "User_ID": "U046",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 245,
+        "Total": 980,
+        "Fecha_de_Compra": "2023-11-18 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T60",
+        "User_ID": "U038",
+        "Producto": "Silla de oficina",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 85,
+        "Total": 85,
+        "Fecha_de_Compra": "2023-12-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T61",
+        "User_ID": "U060",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 499,
+        "Total": 2495,
+        "Fecha_de_Compra": "2023-05-28 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T62",
+        "User_ID": "U029",
+        "Producto": "Auriculares Bluetooth",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 435,
+        "Total": 2175,
+        "Fecha_de_Compra": "2023-08-29 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T63",
+        "User_ID": "U079",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 190,
+        "Total": 950,
+        "Fecha_de_Compra": "2023-12-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T64",
+        "User_ID": "U152",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 3,
+        "Precio_Unitario": 107,
+        "Total": 321,
+        "Fecha_de_Compra": "2023-06-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T65",
+        "User_ID": "U102",
+        "Producto": "Pesas",
+        "Categoria": "Deportes",
+        "Cantidad": 5,
+        "Precio_Unitario": 494,
+        "Total": 2470,
+        "Fecha_de_Compra": "2023-12-05 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T66",
+        "User_ID": "U154",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 448,
+        "Total": 896,
+        "Fecha_de_Compra": "2023-10-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T67",
+        "User_ID": "U175",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 477,
+        "Total": 1431,
+        "Fecha_de_Compra": "2023-04-29 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T68",
+        "User_ID": "U102",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 436,
+        "Total": 1744,
+        "Fecha_de_Compra": "2023-06-27 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T69",
+        "User_ID": "U199",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 420,
+        "Total": 1680,
+        "Fecha_de_Compra": "2023-10-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T70",
+        "User_ID": "U027",
+        "Producto": "Smartphone",
+        "Categoria": "Electronica",
+        "Cantidad": 2,
+        "Precio_Unitario": 25,
+        "Total": 50,
+        "Fecha_de_Compra": "2023-11-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T71",
+        "User_ID": "U121",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 90,
+        "Total": 360,
+        "Fecha_de_Compra": "2023-04-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T72",
+        "User_ID": "U117",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 233,
+        "Total": 466,
+        "Fecha_de_Compra": "2023-05-27 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T73",
+        "User_ID": "U091",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 383,
+        "Total": 383,
+        "Fecha_de_Compra": "2023-07-22 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T74",
+        "User_ID": "U180",
+        "Producto": "Bolso de mano",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 111,
+        "Total": 111,
+        "Fecha_de_Compra": "2023-02-06 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T75",
+        "User_ID": "U122",
+        "Producto": "Smartphone",
+        "Categoria": "Electronica",
+        "Cantidad": 4,
+        "Precio_Unitario": 499,
+        "Total": 1996,
+        "Fecha_de_Compra": "2023-10-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T76",
+        "User_ID": "U186",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 323,
+        "Total": 323,
+        "Fecha_de_Compra": "2023-03-12 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T77",
+        "User_ID": "U089",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 192,
+        "Total": 768,
+        "Fecha_de_Compra": "2023-10-24 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T78",
+        "User_ID": "U150",
+        "Producto": "Silla de oficina",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 203,
+        "Total": 609,
+        "Fecha_de_Compra": "2023-07-08 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T79",
+        "User_ID": "U024",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 212,
+        "Total": 424,
+        "Fecha_de_Compra": "2023-07-14 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T80",
+        "User_ID": "U107",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 2,
+        "Precio_Unitario": 390,
+        "Total": 780,
+        "Fecha_de_Compra": "2023-10-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T81",
+        "User_ID": "U036",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 5,
+        "Precio_Unitario": 411,
+        "Total": 2055,
+        "Fecha_de_Compra": "2023-05-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T82",
+        "User_ID": "U032",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 389,
+        "Total": 1556,
+        "Fecha_de_Compra": "2023-11-01 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T83",
+        "User_ID": "U142",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 489,
+        "Total": 978,
+        "Fecha_de_Compra": "2023-12-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T84",
+        "User_ID": "U175",
+        "Producto": "Smartphone",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 114,
+        "Total": 114,
+        "Fecha_de_Compra": "2023-01-31 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T85",
+        "User_ID": "U083",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 309,
+        "Total": 309,
+        "Fecha_de_Compra": "2023-05-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T86",
+        "User_ID": "U168",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 386,
+        "Total": 1930,
+        "Fecha_de_Compra": "2023-01-24 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T87",
+        "User_ID": "U066",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 308,
+        "Total": 1540,
+        "Fecha_de_Compra": "2023-03-25 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T88",
+        "User_ID": "U164",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 326,
+        "Total": 652,
+        "Fecha_de_Compra": "2023-02-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T89",
+        "User_ID": "U040",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 383,
+        "Total": 1149,
+        "Fecha_de_Compra": "2023-06-27 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T90",
+        "User_ID": "U029",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 241,
+        "Total": 964,
+        "Fecha_de_Compra": "2023-09-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T91",
+        "User_ID": "U022",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 153,
+        "Total": 306,
+        "Fecha_de_Compra": "2023-12-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T92",
+        "User_ID": "U127",
+        "Producto": "Smartphone",
+        "Categoria": "Electronica",
+        "Cantidad": 2,
+        "Precio_Unitario": 214,
+        "Total": 428,
+        "Fecha_de_Compra": "2023-12-12 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T93",
+        "User_ID": "U126",
+        "Producto": "Smartphone",
+        "Categoria": "Electronica",
+        "Cantidad": 4,
+        "Precio_Unitario": 248,
+        "Total": 992,
+        "Fecha_de_Compra": "2023-03-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T94",
+        "User_ID": "U123",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 457,
+        "Total": 1828,
+        "Fecha_de_Compra": "2023-08-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T95",
+        "User_ID": "U167",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 415,
+        "Total": 1245,
+        "Fecha_de_Compra": "2023-10-17 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T96",
+        "User_ID": "U101",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 3,
+        "Precio_Unitario": 371,
+        "Total": 1113,
+        "Fecha_de_Compra": "2023-06-03 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T97",
+        "User_ID": "U183",
+        "Producto": "Silla de oficina",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 409,
+        "Total": 1636,
+        "Fecha_de_Compra": "2023-03-03 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T98",
+        "User_ID": "U189",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 458,
+        "Total": 2290,
+        "Fecha_de_Compra": "2023-02-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T99",
+        "User_ID": "U195",
+        "Producto": "Auriculares Bluetooth",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 173,
+        "Total": 865,
+        "Fecha_de_Compra": "2023-01-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T100",
+        "User_ID": "U018",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 375,
+        "Total": 375,
+        "Fecha_de_Compra": "2023-10-31 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T101",
+        "User_ID": "U069",
+        "Producto": "Reloj",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 23,
+        "Total": 46,
+        "Fecha_de_Compra": "2023-04-20 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T102",
+        "User_ID": "U127",
+        "Producto": "Reloj",
+        "Categoria": "Accesorios",
+        "Cantidad": 5,
+        "Precio_Unitario": 360,
+        "Total": 1800,
+        "Fecha_de_Compra": "2023-08-27 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T103",
+        "User_ID": "U176",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 183,
+        "Total": 732,
+        "Fecha_de_Compra": "2023-06-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T104",
+        "User_ID": "U104",
+        "Producto": "Reloj",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 286,
+        "Total": 1144,
+        "Fecha_de_Compra": "2023-08-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T105",
+        "User_ID": "U075",
+        "Producto": "Zapatillas",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 391,
+        "Total": 1173,
+        "Fecha_de_Compra": "2023-04-27 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T106",
+        "User_ID": "U053",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 154,
+        "Total": 770,
+        "Fecha_de_Compra": "2023-12-29 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T107",
+        "User_ID": "U187",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 2,
+        "Precio_Unitario": 455,
+        "Total": 910,
+        "Fecha_de_Compra": "2023-06-22 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T108",
+        "User_ID": "U078",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 94,
+        "Total": 470,
+        "Fecha_de_Compra": "2023-09-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T109",
+        "User_ID": "U161",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 31,
+        "Total": 155,
+        "Fecha_de_Compra": "2023-10-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T110",
+        "User_ID": "U048",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 199,
+        "Total": 398,
+        "Fecha_de_Compra": "2023-11-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T111",
+        "User_ID": "U158",
+        "Producto": "Smartphone",
+        "Categoria": "Electronica",
+        "Cantidad": 4,
+        "Precio_Unitario": 170,
+        "Total": 680,
+        "Fecha_de_Compra": "2023-05-28 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T112",
+        "User_ID": "U143",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 1,
+        "Precio_Unitario": 332,
+        "Total": 332,
+        "Fecha_de_Compra": "2023-05-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T113",
+        "User_ID": "U064",
+        "Producto": "Raqueta de tenis",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 123,
+        "Total": 369,
+        "Fecha_de_Compra": "2023-12-28 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T114",
+        "User_ID": "U132",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 39,
+        "Total": 39,
+        "Fecha_de_Compra": "2023-05-09 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T115",
+        "User_ID": "U157",
+        "Producto": "Tablet",
+        "Categoria": "Electronica",
+        "Cantidad": 4,
+        "Precio_Unitario": 103,
+        "Total": 412,
+        "Fecha_de_Compra": "2023-05-03 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T116",
+        "User_ID": "U179",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 366,
+        "Total": 366,
+        "Fecha_de_Compra": "2023-11-24 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T117",
+        "User_ID": "U176",
+        "Producto": "Camiseta",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 350,
+        "Total": 1750,
+        "Fecha_de_Compra": "2023-04-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T118",
+        "User_ID": "U088",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 135,
+        "Total": 675,
+        "Fecha_de_Compra": "2023-03-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T119",
+        "User_ID": "U005",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 322,
+        "Total": 1288,
+        "Fecha_de_Compra": "2023-11-04 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T120",
+        "User_ID": "U082",
+        "Producto": "Camiseta",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 372,
+        "Total": 372,
+        "Fecha_de_Compra": "2023-07-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T121",
+        "User_ID": "U049",
+        "Producto": "Camiseta",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 285,
+        "Total": 285,
+        "Fecha_de_Compra": "2023-03-07 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T122",
+        "User_ID": "U115",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 5,
+        "Precio_Unitario": 124,
+        "Total": 620,
+        "Fecha_de_Compra": "2023-11-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T123",
+        "User_ID": "U135",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 291,
+        "Total": 582,
+        "Fecha_de_Compra": "2023-02-05 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T124",
+        "User_ID": "U064",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 306,
+        "Total": 918,
+        "Fecha_de_Compra": "2023-11-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T125",
+        "User_ID": "U160",
+        "Producto": "Reloj",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 50,
+        "Total": 200,
+        "Fecha_de_Compra": "2023-03-05 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T126",
+        "User_ID": "U008",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 441,
+        "Total": 1764,
+        "Fecha_de_Compra": "2023-06-08 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T127",
+        "User_ID": "U195",
+        "Producto": "Reloj",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 218,
+        "Total": 218,
+        "Fecha_de_Compra": "2023-01-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T128",
+        "User_ID": "U011",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 498,
+        "Total": 498,
+        "Fecha_de_Compra": "2023-01-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T129",
+        "User_ID": "U090",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 357,
+        "Total": 1071,
+        "Fecha_de_Compra": "2023-12-23 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T130",
+        "User_ID": "U183",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 354,
+        "Total": 1062,
+        "Fecha_de_Compra": "2023-01-03 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T131",
+        "User_ID": "U118",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 347,
+        "Total": 1041,
+        "Fecha_de_Compra": "2023-03-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T132",
+        "User_ID": "U192",
+        "Producto": "Zapatillas",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 253,
+        "Total": 253,
+        "Fecha_de_Compra": "2023-11-01 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T133",
+        "User_ID": "U148",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 422,
+        "Total": 2110,
+        "Fecha_de_Compra": "2023-09-14 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T134",
+        "User_ID": "U031",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 292,
+        "Total": 1168,
+        "Fecha_de_Compra": "2023-06-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T135",
+        "User_ID": "U063",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 416,
+        "Total": 416,
+        "Fecha_de_Compra": "2023-09-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T136",
+        "User_ID": "U079",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 382,
+        "Total": 1528,
+        "Fecha_de_Compra": "2023-09-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T137",
+        "User_ID": "U157",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 449,
+        "Total": 898,
+        "Fecha_de_Compra": "2023-01-07 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T138",
+        "User_ID": "U087",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 3,
+        "Precio_Unitario": 88,
+        "Total": 264,
+        "Fecha_de_Compra": "2023-01-19 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T139",
+        "User_ID": "U073",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 312,
+        "Total": 1248,
+        "Fecha_de_Compra": "2023-05-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T140",
+        "User_ID": "U038",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 323,
+        "Total": 323,
+        "Fecha_de_Compra": "2023-03-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T141",
+        "User_ID": "U049",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 162,
+        "Total": 648,
+        "Fecha_de_Compra": "2023-08-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T142",
+        "User_ID": "U045",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 3,
+        "Precio_Unitario": 182,
+        "Total": 546,
+        "Fecha_de_Compra": "2023-03-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T143",
+        "User_ID": "U017",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 2,
+        "Precio_Unitario": 457,
+        "Total": 914,
+        "Fecha_de_Compra": "2023-08-29 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T144",
+        "User_ID": "U118",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 121,
+        "Total": 121,
+        "Fecha_de_Compra": "2023-12-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T145",
+        "User_ID": "U145",
+        "Producto": "Bolso de mano",
+        "Categoria": "Accesorios",
+        "Cantidad": 5,
+        "Precio_Unitario": 320,
+        "Total": 1600,
+        "Fecha_de_Compra": "2023-02-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T146",
+        "User_ID": "U156",
+        "Producto": "Cinta de correr",
+        "Categoria": "Deportes",
+        "Cantidad": 1,
+        "Precio_Unitario": 366,
+        "Total": 366,
+        "Fecha_de_Compra": "2023-06-06 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T147",
+        "User_ID": "U018",
+        "Producto": "Tablet",
+        "Categoria": "Electronica",
+        "Cantidad": 3,
+        "Precio_Unitario": 274,
+        "Total": 822,
+        "Fecha_de_Compra": "2023-10-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T148",
+        "User_ID": "U141",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 319,
+        "Total": 957,
+        "Fecha_de_Compra": "2023-12-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T149",
+        "User_ID": "U162",
+        "Producto": "Raqueta de tenis",
+        "Categoria": "Deportes",
+        "Cantidad": 1,
+        "Precio_Unitario": 417,
+        "Total": 417,
+        "Fecha_de_Compra": "2023-01-22 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T150",
+        "User_ID": "U139",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 129,
+        "Total": 645,
+        "Fecha_de_Compra": "2023-04-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T151",
+        "User_ID": "U169",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 370,
+        "Total": 740,
+        "Fecha_de_Compra": "2023-11-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T152",
+        "User_ID": "U063",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 444,
+        "Total": 1776,
+        "Fecha_de_Compra": "2023-04-23 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T153",
+        "User_ID": "U150",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 261,
+        "Total": 1305,
+        "Fecha_de_Compra": "2023-04-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T154",
+        "User_ID": "U037",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 210,
+        "Total": 840,
+        "Fecha_de_Compra": "2023-03-20 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T155",
+        "User_ID": "U002",
+        "Producto": "Pesas",
+        "Categoria": "Deportes",
+        "Cantidad": 5,
+        "Precio_Unitario": 445,
+        "Total": 2225,
+        "Fecha_de_Compra": "2023-07-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T156",
+        "User_ID": "U158",
+        "Producto": "Tablet",
+        "Categoria": "Electronica",
+        "Cantidad": 1,
+        "Precio_Unitario": 425,
+        "Total": 425,
+        "Fecha_de_Compra": "2023-08-31 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T157",
+        "User_ID": "U185",
+        "Producto": "Camiseta",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 274,
+        "Total": 1370,
+        "Fecha_de_Compra": "2023-10-31 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T158",
+        "User_ID": "U013",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 259,
+        "Total": 777,
+        "Fecha_de_Compra": "2023-06-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T159",
+        "User_ID": "U024",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 254,
+        "Total": 762,
+        "Fecha_de_Compra": "2023-06-19 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T160",
+        "User_ID": "U116",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 1,
+        "Precio_Unitario": 374,
+        "Total": 374,
+        "Fecha_de_Compra": "2023-06-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T161",
+        "User_ID": "U158",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 409,
+        "Total": 818,
+        "Fecha_de_Compra": "2023-05-20 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T162",
+        "User_ID": "U191",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 420,
+        "Total": 840,
+        "Fecha_de_Compra": "2023-05-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T163",
+        "User_ID": "U045",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 230,
+        "Total": 460,
+        "Fecha_de_Compra": "2023-02-09 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T164",
+        "User_ID": "U098",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 370,
+        "Total": 1110,
+        "Fecha_de_Compra": "2023-11-28 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T165",
+        "User_ID": "U009",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 378,
+        "Total": 1134,
+        "Fecha_de_Compra": "2023-03-07 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T166",
+        "User_ID": "U047",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 4,
+        "Precio_Unitario": 300,
+        "Total": 1200,
+        "Fecha_de_Compra": "2023-12-06 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T167",
+        "User_ID": "U140",
+        "Producto": "Bolso de mano",
+        "Categoria": "Accesorios",
+        "Cantidad": 3,
+        "Precio_Unitario": 486,
+        "Total": 1458,
+        "Fecha_de_Compra": "2023-11-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T168",
+        "User_ID": "U125",
+        "Producto": "Bolso de mano",
+        "Categoria": "Accesorios",
+        "Cantidad": 3,
+        "Precio_Unitario": 148,
+        "Total": 444,
+        "Fecha_de_Compra": "2023-06-23 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T169",
+        "User_ID": "U009",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 3,
+        "Precio_Unitario": 459,
+        "Total": 1377,
+        "Fecha_de_Compra": "2023-10-05 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T170",
+        "User_ID": "U026",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 2,
+        "Precio_Unitario": 370,
+        "Total": 740,
+        "Fecha_de_Compra": "2023-06-07 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T171",
+        "User_ID": "U146",
+        "Producto": "Pesas",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 366,
+        "Total": 1464,
+        "Fecha_de_Compra": "2023-12-13 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T172",
+        "User_ID": "U084",
+        "Producto": "Smartphone",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 425,
+        "Total": 2125,
+        "Fecha_de_Compra": "2023-07-10 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T173",
+        "User_ID": "U116",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 1,
+        "Precio_Unitario": 453,
+        "Total": 453,
+        "Fecha_de_Compra": "2023-02-01 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T174",
+        "User_ID": "U008",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 3,
+        "Precio_Unitario": 287,
+        "Total": 861,
+        "Fecha_de_Compra": "2023-11-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T175",
+        "User_ID": "U189",
+        "Producto": "Colchon",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 395,
+        "Total": 1580,
+        "Fecha_de_Compra": "2023-01-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T176",
+        "User_ID": "U063",
+        "Producto": "Cartera",
+        "Categoria": "Accesorios",
+        "Cantidad": 3,
+        "Precio_Unitario": 316,
+        "Total": 948,
+        "Fecha_de_Compra": "2023-03-01 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T177",
+        "User_ID": "U140",
+        "Producto": "Zapatillas",
+        "Categoria": "Ropa",
+        "Cantidad": 1,
+        "Precio_Unitario": 242,
+        "Total": 242,
+        "Fecha_de_Compra": "2023-12-05 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T178",
+        "User_ID": "U113",
+        "Producto": "Pesas",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 244,
+        "Total": 976,
+        "Fecha_de_Compra": "2023-12-17 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T179",
+        "User_ID": "U143",
+        "Producto": "Laptop",
+        "Categoria": "Electronica",
+        "Cantidad": 5,
+        "Precio_Unitario": 201,
+        "Total": 1005,
+        "Fecha_de_Compra": "2023-09-18 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T180",
+        "User_ID": "U093",
+        "Producto": "Vestido",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 357,
+        "Total": 1428,
+        "Fecha_de_Compra": "2023-12-04 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T181",
+        "User_ID": "U144",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 154,
+        "Total": 462,
+        "Fecha_de_Compra": "2023-11-07 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T182",
+        "User_ID": "U195",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 4,
+        "Precio_Unitario": 211,
+        "Total": 844,
+        "Fecha_de_Compra": "2023-10-07 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T183",
+        "User_ID": "U038",
+        "Producto": "Bicicleta",
+        "Categoria": "Deportes",
+        "Cantidad": 3,
+        "Precio_Unitario": 85,
+        "Total": 255,
+        "Fecha_de_Compra": "2023-08-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T184",
+        "User_ID": "U157",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 218,
+        "Total": 654,
+        "Fecha_de_Compra": "2023-09-16 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T185",
+        "User_ID": "U139",
+        "Producto": "Raqueta de tenis",
+        "Categoria": "Deportes",
+        "Cantidad": 1,
+        "Precio_Unitario": 412,
+        "Total": 412,
+        "Fecha_de_Compra": "2023-02-19 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T186",
+        "User_ID": "U156",
+        "Producto": "Pelota de futbol",
+        "Categoria": "Deportes",
+        "Cantidad": 4,
+        "Precio_Unitario": 407,
+        "Total": 1628,
+        "Fecha_de_Compra": "2023-12-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T187",
+        "User_ID": "U007",
+        "Producto": "Cinta de correr",
+        "Categoria": "Deportes",
+        "Cantidad": 5,
+        "Precio_Unitario": 493,
+        "Total": 2465,
+        "Fecha_de_Compra": "2023-07-06 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T188",
+        "User_ID": "U120",
+        "Producto": "Gafas de sol",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 359,
+        "Total": 718,
+        "Fecha_de_Compra": "2023-09-26 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T189",
+        "User_ID": "U018",
+        "Producto": "Bolso de mano",
+        "Categoria": "Accesorios",
+        "Cantidad": 2,
+        "Precio_Unitario": 259,
+        "Total": 518,
+        "Fecha_de_Compra": "2023-12-19 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T190",
+        "User_ID": "U022",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 4,
+        "Precio_Unitario": 81,
+        "Total": 324,
+        "Fecha_de_Compra": "2023-03-15 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T191",
+        "User_ID": "U165",
+        "Producto": "Camara DSLR",
+        "Categoria": "Electronica",
+        "Cantidad": 2,
+        "Precio_Unitario": 155,
+        "Total": 310,
+        "Fecha_de_Compra": "2023-01-19 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T192",
+        "User_ID": "U021",
+        "Producto": "Sofa",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 57,
+        "Total": 171,
+        "Fecha_de_Compra": "2023-01-11 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T193",
+        "User_ID": "U128",
+        "Producto": "Lampara",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 483,
+        "Total": 2415,
+        "Fecha_de_Compra": "2023-09-30 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T194",
+        "User_ID": "U105",
+        "Producto": "Cinta de correr",
+        "Categoria": "Deportes",
+        "Cantidad": 5,
+        "Precio_Unitario": 143,
+        "Total": 715,
+        "Fecha_de_Compra": "2023-12-02 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T195",
+        "User_ID": "U077",
+        "Producto": "Bufanda",
+        "Categoria": "Accesorios",
+        "Cantidad": 4,
+        "Precio_Unitario": 365,
+        "Total": 1460,
+        "Fecha_de_Compra": "2023-08-14 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T196",
+        "User_ID": "U169",
+        "Producto": "Mesa de comedor",
+        "Categoria": "Hogar",
+        "Cantidad": 3,
+        "Precio_Unitario": 224,
+        "Total": 672,
+        "Fecha_de_Compra": "2023-01-03 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T197",
+        "User_ID": "U072",
+        "Producto": "Abrigo",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 106,
+        "Total": 530,
+        "Fecha_de_Compra": "2023-09-08 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T198",
+        "User_ID": "U111",
+        "Producto": "Silla de oficina",
+        "Categoria": "Hogar",
+        "Cantidad": 5,
+        "Precio_Unitario": 74,
+        "Total": 370,
+        "Fecha_de_Compra": "2023-06-21 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T199",
+        "User_ID": "U097",
+        "Producto": "Jeans",
+        "Categoria": "Ropa",
+        "Cantidad": 5,
+        "Precio_Unitario": 252,
+        "Total": 1260,
+        "Fecha_de_Compra": "2023-02-03 00:00:00"
+    },
+    {
+        "Transaccion_ID": "T200",
+        "User_ID": "U023",
+        "Producto": "Camiseta",
+        "Categoria": "Ropa",
+        "Cantidad": 3,
+        "Precio_Unitario": 386,
+        "Total": 1158,
+        "Fecha_de_Compra": "2023-02-18 00:00:00"
+    }
+]

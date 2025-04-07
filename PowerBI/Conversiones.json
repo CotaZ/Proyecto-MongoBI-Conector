@@ -1,0 +1,1402 @@
+[
+    {
+        "User_ID": "U134",
+        "Visitas": 2,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U091",
+        "Visitas": 3,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 66.66666666666666
+    },
+    {
+        "User_ID": "U076",
+        "Visitas": 7,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U183",
+        "Visitas": 2,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U065",
+        "Visitas": 9,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U199",
+        "Visitas": 2,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U191",
+        "Visitas": 7,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U116",
+        "Visitas": 8,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U018",
+        "Visitas": 7,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 4,
+        "Tasa_de_Conversion_porcentaje": 57.14285714285714
+    },
+    {
+        "User_ID": "U026",
+        "Visitas": 5,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U123",
+        "Visitas": 3,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 66.66666666666666
+    },
+    {
+        "User_ID": "U184",
+        "Visitas": 7,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U027",
+        "Visitas": 10,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U200",
+        "Visitas": 7,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U151",
+        "Visitas": 4,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U044",
+        "Visitas": 6,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U136",
+        "Visitas": 7,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U061",
+        "Visitas": 7,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U069",
+        "Visitas": 9,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 22.22222222222222
+    },
+    {
+        "User_ID": "U063",
+        "Visitas": 1,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 300.0
+    },
+    {
+        "User_ID": "U129",
+        "Visitas": 3,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U041",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U004",
+        "Visitas": 10,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U162",
+        "Visitas": 8,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U036",
+        "Visitas": 7,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U021",
+        "Visitas": 6,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U093",
+        "Visitas": 3,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U007",
+        "Visitas": 8,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U151",
+        "Visitas": 6,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U139",
+        "Visitas": 9,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U018",
+        "Visitas": 3,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 4,
+        "Tasa_de_Conversion_porcentaje": 133.33333333333331
+    },
+    {
+        "User_ID": "U144",
+        "Visitas": 6,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U053",
+        "Visitas": 6,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U050",
+        "Visitas": 4,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U034",
+        "Visitas": 10,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U029",
+        "Visitas": 3,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 66.66666666666666
+    },
+    {
+        "User_ID": "U166",
+        "Visitas": 9,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U003",
+        "Visitas": 2,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U185",
+        "Visitas": 10,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 30.0
+    },
+    {
+        "User_ID": "U174",
+        "Visitas": 3,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U197",
+        "Visitas": 3,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U013",
+        "Visitas": 4,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U178",
+        "Visitas": 4,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U194",
+        "Visitas": 2,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U098",
+        "Visitas": 1,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U004",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U168",
+        "Visitas": 4,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U025",
+        "Visitas": 3,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U110",
+        "Visitas": 1,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U097",
+        "Visitas": 6,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U047",
+        "Visitas": 6,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U037",
+        "Visitas": 6,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U105",
+        "Visitas": 8,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U074",
+        "Visitas": 6,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U031",
+        "Visitas": 7,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U142",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U156",
+        "Visitas": 1,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 300.0
+    },
+    {
+        "User_ID": "U052",
+        "Visitas": 7,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U032",
+        "Visitas": 5,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U144",
+        "Visitas": 3,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U079",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U126",
+        "Visitas": 5,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U108",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U173",
+        "Visitas": 5,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U105",
+        "Visitas": 5,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U144",
+        "Visitas": 10,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U081",
+        "Visitas": 8,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U026",
+        "Visitas": 8,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U065",
+        "Visitas": 6,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U022",
+        "Visitas": 2,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U142",
+        "Visitas": 9,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U012",
+        "Visitas": 7,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U058",
+        "Visitas": 4,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U085",
+        "Visitas": 6,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U167",
+        "Visitas": 9,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U190",
+        "Visitas": 8,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U048",
+        "Visitas": 7,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U063",
+        "Visitas": 5,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 60.0
+    },
+    {
+        "User_ID": "U045",
+        "Visitas": 1,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 200.0
+    },
+    {
+        "User_ID": "U025",
+        "Visitas": 2,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U124",
+        "Visitas": 1,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U181",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U013",
+        "Visitas": 6,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U114",
+        "Visitas": 7,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U046",
+        "Visitas": 4,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U065",
+        "Visitas": 4,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U011",
+        "Visitas": 10,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U048",
+        "Visitas": 10,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U178",
+        "Visitas": 5,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U160",
+        "Visitas": 2,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U012",
+        "Visitas": 5,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U084",
+        "Visitas": 5,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U114",
+        "Visitas": 3,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U062",
+        "Visitas": 5,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U020",
+        "Visitas": 7,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U058",
+        "Visitas": 3,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U123",
+        "Visitas": 3,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 66.66666666666666
+    },
+    {
+        "User_ID": "U167",
+        "Visitas": 5,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U067",
+        "Visitas": 3,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U101",
+        "Visitas": 9,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U040",
+        "Visitas": 2,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 150.0
+    },
+    {
+        "User_ID": "U181",
+        "Visitas": 5,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U130",
+        "Visitas": 5,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U163",
+        "Visitas": 2,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U006",
+        "Visitas": 8,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U101",
+        "Visitas": 10,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U041",
+        "Visitas": 7,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U040",
+        "Visitas": 5,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 60.0
+    },
+    {
+        "User_ID": "U160",
+        "Visitas": 5,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U128",
+        "Visitas": 4,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 75.0
+    },
+    {
+        "User_ID": "U183",
+        "Visitas": 7,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 28.57142857142857
+    },
+    {
+        "User_ID": "U129",
+        "Visitas": 6,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U076",
+        "Visitas": 3,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U070",
+        "Visitas": 1,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U151",
+        "Visitas": 9,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U165",
+        "Visitas": 3,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U165",
+        "Visitas": 2,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U138",
+        "Visitas": 8,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U068",
+        "Visitas": 6,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U199",
+        "Visitas": 2,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U055",
+        "Visitas": 10,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U065",
+        "Visitas": 5,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U150",
+        "Visitas": 4,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U006",
+        "Visitas": 10,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U039",
+        "Visitas": 3,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U057",
+        "Visitas": 5,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U075",
+        "Visitas": 6,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U177",
+        "Visitas": 7,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U043",
+        "Visitas": 5,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U168",
+        "Visitas": 3,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U068",
+        "Visitas": 9,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U001",
+        "Visitas": 3,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 66.66666666666666
+    },
+    {
+        "User_ID": "U008",
+        "Visitas": 6,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U098",
+        "Visitas": 8,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U099",
+        "Visitas": 2,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U019",
+        "Visitas": 8,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U039",
+        "Visitas": 6,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U034",
+        "Visitas": 7,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U173",
+        "Visitas": 9,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U179",
+        "Visitas": 1,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U144",
+        "Visitas": 7,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U159",
+        "Visitas": 7,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U089",
+        "Visitas": 6,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U002",
+        "Visitas": 9,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U105",
+        "Visitas": 8,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U007",
+        "Visitas": 9,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U104",
+        "Visitas": 5,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U021",
+        "Visitas": 9,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U041",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U200",
+        "Visitas": 10,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U044",
+        "Visitas": 6,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U047",
+        "Visitas": 2,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U197",
+        "Visitas": 5,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U058",
+        "Visitas": 8,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U171",
+        "Visitas": 7,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U199",
+        "Visitas": 3,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 33.33333333333333
+    },
+    {
+        "User_ID": "U190",
+        "Visitas": 6,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U040",
+        "Visitas": 3,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U106",
+        "Visitas": 4,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U100",
+        "Visitas": 6,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U144",
+        "Visitas": 1,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U063",
+        "Visitas": 4,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 75.0
+    },
+    {
+        "User_ID": "U084",
+        "Visitas": 9,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 11.11111111111111
+    },
+    {
+        "User_ID": "U095",
+        "Visitas": 4,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U196",
+        "Visitas": 9,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U158",
+        "Visitas": 2,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 5,
+        "Tasa_de_Conversion_porcentaje": 250.0
+    },
+    {
+        "User_ID": "U033",
+        "Visitas": 3,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U024",
+        "Visitas": 8,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U068",
+        "Visitas": 10,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U160",
+        "Visitas": 2,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U075",
+        "Visitas": 7,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U016",
+        "Visitas": 7,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U053",
+        "Visitas": 2,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U038",
+        "Visitas": 3,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U066",
+        "Visitas": 4,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U037",
+        "Visitas": 3,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U161",
+        "Visitas": 10,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U060",
+        "Visitas": 1,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 200.0
+    },
+    {
+        "User_ID": "U029",
+        "Visitas": 2,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U106",
+        "Visitas": 6,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U147",
+        "Visitas": 6,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 16.666666666666664
+    },
+    {
+        "User_ID": "U109",
+        "Visitas": 8,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    },
+    {
+        "User_ID": "U148",
+        "Visitas": 8,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U161",
+        "Visitas": 4,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 25.0
+    },
+    {
+        "User_ID": "U005",
+        "Visitas": 1,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U126",
+        "Visitas": 10,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U077",
+        "Visitas": 7,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 14.285714285714285
+    },
+    {
+        "User_ID": "U043",
+        "Visitas": 1,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U071",
+        "Visitas": 5,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U101",
+        "Visitas": 1,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 100.0
+    },
+    {
+        "User_ID": "U070",
+        "Visitas": 10,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U073",
+        "Visitas": 10,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 10.0
+    },
+    {
+        "User_ID": "U038",
+        "Visitas": 5,
+        "Productos_en_Carrito": 3,
+        "Conversiones": 3,
+        "Tasa_de_Conversion_porcentaje": 60.0
+    },
+    {
+        "User_ID": "U147",
+        "Visitas": 5,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U141",
+        "Visitas": 5,
+        "Productos_en_Carrito": 1,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 20.0
+    },
+    {
+        "User_ID": "U056",
+        "Visitas": 10,
+        "Productos_en_Carrito": 4,
+        "Conversiones": 0,
+        "Tasa_de_Conversion_porcentaje": 0.0
+    },
+    {
+        "User_ID": "U120",
+        "Visitas": 4,
+        "Productos_en_Carrito": 2,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U047",
+        "Visitas": 9,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 2,
+        "Tasa_de_Conversion_porcentaje": 22.22222222222222
+    },
+    {
+        "User_ID": "U187",
+        "Visitas": 2,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 50.0
+    },
+    {
+        "User_ID": "U188",
+        "Visitas": 8,
+        "Productos_en_Carrito": 5,
+        "Conversiones": 1,
+        "Tasa_de_Conversion_porcentaje": 12.5
+    }
+]

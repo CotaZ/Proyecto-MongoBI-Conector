@@ -1,0 +1,1402 @@
+[
+    {
+        "User_ID": "U011",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 183,
+        "Clics": 2,
+        "Fecha": "2023-08-01 00:00:00"
+    },
+    {
+        "User_ID": "U118",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 22,
+        "Clics": 0,
+        "Fecha": "2023-03-01 00:00:00"
+    },
+    {
+        "User_ID": "U071",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 65,
+        "Clics": 1,
+        "Fecha": "2023-10-04 00:00:00"
+    },
+    {
+        "User_ID": "U174",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 176,
+        "Clics": 6,
+        "Fecha": "2023-03-09 00:00:00"
+    },
+    {
+        "User_ID": "U085",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 148,
+        "Clics": 9,
+        "Fecha": "2023-02-13 00:00:00"
+    },
+    {
+        "User_ID": "U143",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 166,
+        "Clics": 5,
+        "Fecha": "2023-09-04 00:00:00"
+    },
+    {
+        "User_ID": "U071",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 155,
+        "Clics": 4,
+        "Fecha": "2023-11-06 00:00:00"
+    },
+    {
+        "User_ID": "U016",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 216,
+        "Clics": 10,
+        "Fecha": "2023-04-28 00:00:00"
+    },
+    {
+        "User_ID": "U015",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 166,
+        "Clics": 10,
+        "Fecha": "2023-05-13 00:00:00"
+    },
+    {
+        "User_ID": "U199",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 271,
+        "Clics": 5,
+        "Fecha": "2023-04-30 00:00:00"
+    },
+    {
+        "User_ID": "U164",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 142,
+        "Clics": 2,
+        "Fecha": "2023-05-26 00:00:00"
+    },
+    {
+        "User_ID": "U101",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 279,
+        "Clics": 8,
+        "Fecha": "2023-10-18 00:00:00"
+    },
+    {
+        "User_ID": "U031",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 145,
+        "Clics": 8,
+        "Fecha": "2023-06-20 00:00:00"
+    },
+    {
+        "User_ID": "U046",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 213,
+        "Clics": 1,
+        "Fecha": "2023-11-27 00:00:00"
+    },
+    {
+        "User_ID": "U169",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 153,
+        "Clics": 6,
+        "Fecha": "2023-11-11 00:00:00"
+    },
+    {
+        "User_ID": "U048",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 195,
+        "Clics": 1,
+        "Fecha": "2023-10-03 00:00:00"
+    },
+    {
+        "User_ID": "U031",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 178,
+        "Clics": 3,
+        "Fecha": "2023-02-15 00:00:00"
+    },
+    {
+        "User_ID": "U061",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 70,
+        "Clics": 0,
+        "Fecha": "2023-06-15 00:00:00"
+    },
+    {
+        "User_ID": "U019",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 174,
+        "Clics": 8,
+        "Fecha": "2023-09-29 00:00:00"
+    },
+    {
+        "User_ID": "U085",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 248,
+        "Clics": 3,
+        "Fecha": "2023-02-12 00:00:00"
+    },
+    {
+        "User_ID": "U079",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 91,
+        "Clics": 0,
+        "Fecha": "2023-08-05 00:00:00"
+    },
+    {
+        "User_ID": "U178",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 142,
+        "Clics": 0,
+        "Fecha": "2023-09-09 00:00:00"
+    },
+    {
+        "User_ID": "U117",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 161,
+        "Clics": 4,
+        "Fecha": "2023-02-21 00:00:00"
+    },
+    {
+        "User_ID": "U093",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 202,
+        "Clics": 0,
+        "Fecha": "2023-03-30 00:00:00"
+    },
+    {
+        "User_ID": "U140",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 78,
+        "Clics": 10,
+        "Fecha": "2023-09-07 00:00:00"
+    },
+    {
+        "User_ID": "U018",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 72,
+        "Clics": 3,
+        "Fecha": "2023-01-27 00:00:00"
+    },
+    {
+        "User_ID": "U051",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 212,
+        "Clics": 8,
+        "Fecha": "2023-02-05 00:00:00"
+    },
+    {
+        "User_ID": "U083",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 32,
+        "Clics": 10,
+        "Fecha": "2023-11-16 00:00:00"
+    },
+    {
+        "User_ID": "U073",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 65,
+        "Clics": 2,
+        "Fecha": "2023-01-02 00:00:00"
+    },
+    {
+        "User_ID": "U162",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 198,
+        "Clics": 8,
+        "Fecha": "2023-02-13 00:00:00"
+    },
+    {
+        "User_ID": "U080",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 149,
+        "Clics": 1,
+        "Fecha": "2023-12-01 00:00:00"
+    },
+    {
+        "User_ID": "U131",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 95,
+        "Clics": 0,
+        "Fecha": "2023-05-24 00:00:00"
+    },
+    {
+        "User_ID": "U025",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 174,
+        "Clics": 4,
+        "Fecha": "2023-11-12 00:00:00"
+    },
+    {
+        "User_ID": "U131",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 230,
+        "Clics": 6,
+        "Fecha": "2023-01-02 00:00:00"
+    },
+    {
+        "User_ID": "U129",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 254,
+        "Clics": 6,
+        "Fecha": "2023-09-15 00:00:00"
+    },
+    {
+        "User_ID": "U124",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 170,
+        "Clics": 0,
+        "Fecha": "2023-03-10 00:00:00"
+    },
+    {
+        "User_ID": "U059",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 209,
+        "Clics": 4,
+        "Fecha": "2023-05-11 00:00:00"
+    },
+    {
+        "User_ID": "U141",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 59,
+        "Clics": 10,
+        "Fecha": "2023-01-20 00:00:00"
+    },
+    {
+        "User_ID": "U141",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 188,
+        "Clics": 1,
+        "Fecha": "2023-02-01 00:00:00"
+    },
+    {
+        "User_ID": "U182",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 136,
+        "Clics": 5,
+        "Fecha": "2023-09-12 00:00:00"
+    },
+    {
+        "User_ID": "U091",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 153,
+        "Clics": 3,
+        "Fecha": "2023-01-21 00:00:00"
+    },
+    {
+        "User_ID": "U182",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 106,
+        "Clics": 8,
+        "Fecha": "2023-05-18 00:00:00"
+    },
+    {
+        "User_ID": "U058",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 206,
+        "Clics": 10,
+        "Fecha": "2023-12-22 00:00:00"
+    },
+    {
+        "User_ID": "U124",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 20,
+        "Clics": 0,
+        "Fecha": "2023-06-14 00:00:00"
+    },
+    {
+        "User_ID": "U162",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 25,
+        "Clics": 1,
+        "Fecha": "2023-11-19 00:00:00"
+    },
+    {
+        "User_ID": "U117",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 120,
+        "Clics": 2,
+        "Fecha": "2023-11-18 00:00:00"
+    },
+    {
+        "User_ID": "U016",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 270,
+        "Clics": 2,
+        "Fecha": "2023-07-07 00:00:00"
+    },
+    {
+        "User_ID": "U070",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 162,
+        "Clics": 0,
+        "Fecha": "2023-12-18 00:00:00"
+    },
+    {
+        "User_ID": "U024",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 228,
+        "Clics": 0,
+        "Fecha": "2023-02-21 00:00:00"
+    },
+    {
+        "User_ID": "U118",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 292,
+        "Clics": 8,
+        "Fecha": "2023-09-26 00:00:00"
+    },
+    {
+        "User_ID": "U053",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 196,
+        "Clics": 2,
+        "Fecha": "2023-02-23 00:00:00"
+    },
+    {
+        "User_ID": "U182",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 78,
+        "Clics": 6,
+        "Fecha": "2023-03-27 00:00:00"
+    },
+    {
+        "User_ID": "U129",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 10,
+        "Clics": 7,
+        "Fecha": "2023-01-21 00:00:00"
+    },
+    {
+        "User_ID": "U005",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 41,
+        "Clics": 5,
+        "Fecha": "2023-12-15 00:00:00"
+    },
+    {
+        "User_ID": "U145",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 237,
+        "Clics": 0,
+        "Fecha": "2023-12-18 00:00:00"
+    },
+    {
+        "User_ID": "U072",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 46,
+        "Clics": 2,
+        "Fecha": "2023-08-27 00:00:00"
+    },
+    {
+        "User_ID": "U135",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 169,
+        "Clics": 8,
+        "Fecha": "2023-11-29 00:00:00"
+    },
+    {
+        "User_ID": "U173",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 53,
+        "Clics": 8,
+        "Fecha": "2023-02-19 00:00:00"
+    },
+    {
+        "User_ID": "U146",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 70,
+        "Clics": 1,
+        "Fecha": "2023-03-24 00:00:00"
+    },
+    {
+        "User_ID": "U134",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 124,
+        "Clics": 6,
+        "Fecha": "2023-12-05 00:00:00"
+    },
+    {
+        "User_ID": "U160",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 116,
+        "Clics": 0,
+        "Fecha": "2023-12-27 00:00:00"
+    },
+    {
+        "User_ID": "U107",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 95,
+        "Clics": 2,
+        "Fecha": "2023-11-24 00:00:00"
+    },
+    {
+        "User_ID": "U197",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 245,
+        "Clics": 9,
+        "Fecha": "2023-11-09 00:00:00"
+    },
+    {
+        "User_ID": "U175",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 236,
+        "Clics": 9,
+        "Fecha": "2023-12-02 00:00:00"
+    },
+    {
+        "User_ID": "U175",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 80,
+        "Clics": 2,
+        "Fecha": "2023-10-01 00:00:00"
+    },
+    {
+        "User_ID": "U058",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 36,
+        "Clics": 0,
+        "Fecha": "2023-09-28 00:00:00"
+    },
+    {
+        "User_ID": "U051",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 286,
+        "Clics": 4,
+        "Fecha": "2023-08-26 00:00:00"
+    },
+    {
+        "User_ID": "U026",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 262,
+        "Clics": 4,
+        "Fecha": "2023-07-02 00:00:00"
+    },
+    {
+        "User_ID": "U085",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 88,
+        "Clics": 0,
+        "Fecha": "2023-08-06 00:00:00"
+    },
+    {
+        "User_ID": "U188",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 22,
+        "Clics": 2,
+        "Fecha": "2023-09-16 00:00:00"
+    },
+    {
+        "User_ID": "U137",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 268,
+        "Clics": 3,
+        "Fecha": "2023-01-01 00:00:00"
+    },
+    {
+        "User_ID": "U106",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 163,
+        "Clics": 6,
+        "Fecha": "2023-06-05 00:00:00"
+    },
+    {
+        "User_ID": "U172",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 38,
+        "Clics": 7,
+        "Fecha": "2023-05-04 00:00:00"
+    },
+    {
+        "User_ID": "U109",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 162,
+        "Clics": 5,
+        "Fecha": "2023-02-18 00:00:00"
+    },
+    {
+        "User_ID": "U155",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 128,
+        "Clics": 2,
+        "Fecha": "2023-04-20 00:00:00"
+    },
+    {
+        "User_ID": "U145",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 297,
+        "Clics": 8,
+        "Fecha": "2023-12-19 00:00:00"
+    },
+    {
+        "User_ID": "U051",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 162,
+        "Clics": 2,
+        "Fecha": "2023-06-07 00:00:00"
+    },
+    {
+        "User_ID": "U060",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 171,
+        "Clics": 9,
+        "Fecha": "2023-07-01 00:00:00"
+    },
+    {
+        "User_ID": "U017",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 267,
+        "Clics": 5,
+        "Fecha": "2023-11-21 00:00:00"
+    },
+    {
+        "User_ID": "U015",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 287,
+        "Clics": 6,
+        "Fecha": "2023-05-14 00:00:00"
+    },
+    {
+        "User_ID": "U120",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 112,
+        "Clics": 5,
+        "Fecha": "2023-12-26 00:00:00"
+    },
+    {
+        "User_ID": "U165",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 84,
+        "Clics": 2,
+        "Fecha": "2023-02-05 00:00:00"
+    },
+    {
+        "User_ID": "U146",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 76,
+        "Clics": 8,
+        "Fecha": "2023-07-29 00:00:00"
+    },
+    {
+        "User_ID": "U082",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 259,
+        "Clics": 8,
+        "Fecha": "2023-12-23 00:00:00"
+    },
+    {
+        "User_ID": "U002",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 159,
+        "Clics": 9,
+        "Fecha": "2023-08-23 00:00:00"
+    },
+    {
+        "User_ID": "U055",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 34,
+        "Clics": 5,
+        "Fecha": "2023-08-25 00:00:00"
+    },
+    {
+        "User_ID": "U197",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 261,
+        "Clics": 5,
+        "Fecha": "2023-01-16 00:00:00"
+    },
+    {
+        "User_ID": "U166",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 86,
+        "Clics": 10,
+        "Fecha": "2023-04-19 00:00:00"
+    },
+    {
+        "User_ID": "U065",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 55,
+        "Clics": 10,
+        "Fecha": "2023-09-10 00:00:00"
+    },
+    {
+        "User_ID": "U172",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 114,
+        "Clics": 9,
+        "Fecha": "2023-11-09 00:00:00"
+    },
+    {
+        "User_ID": "U080",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 108,
+        "Clics": 4,
+        "Fecha": "2023-03-05 00:00:00"
+    },
+    {
+        "User_ID": "U091",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 48,
+        "Clics": 2,
+        "Fecha": "2023-07-30 00:00:00"
+    },
+    {
+        "User_ID": "U057",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 91,
+        "Clics": 10,
+        "Fecha": "2023-02-03 00:00:00"
+    },
+    {
+        "User_ID": "U059",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 53,
+        "Clics": 1,
+        "Fecha": "2023-12-22 00:00:00"
+    },
+    {
+        "User_ID": "U192",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 254,
+        "Clics": 0,
+        "Fecha": "2023-01-16 00:00:00"
+    },
+    {
+        "User_ID": "U070",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 294,
+        "Clics": 2,
+        "Fecha": "2023-01-11 00:00:00"
+    },
+    {
+        "User_ID": "U075",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 24,
+        "Clics": 6,
+        "Fecha": "2023-12-24 00:00:00"
+    },
+    {
+        "User_ID": "U167",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 292,
+        "Clics": 1,
+        "Fecha": "2023-09-29 00:00:00"
+    },
+    {
+        "User_ID": "U019",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 244,
+        "Clics": 2,
+        "Fecha": "2023-09-01 00:00:00"
+    },
+    {
+        "User_ID": "U168",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 259,
+        "Clics": 4,
+        "Fecha": "2023-08-26 00:00:00"
+    },
+    {
+        "User_ID": "U190",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 139,
+        "Clics": 10,
+        "Fecha": "2023-06-05 00:00:00"
+    },
+    {
+        "User_ID": "U057",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 69,
+        "Clics": 7,
+        "Fecha": "2023-09-26 00:00:00"
+    },
+    {
+        "User_ID": "U111",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 77,
+        "Clics": 9,
+        "Fecha": "2023-01-05 00:00:00"
+    },
+    {
+        "User_ID": "U121",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 149,
+        "Clics": 3,
+        "Fecha": "2023-10-02 00:00:00"
+    },
+    {
+        "User_ID": "U106",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 145,
+        "Clics": 4,
+        "Fecha": "2023-06-20 00:00:00"
+    },
+    {
+        "User_ID": "U144",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 226,
+        "Clics": 7,
+        "Fecha": "2023-05-19 00:00:00"
+    },
+    {
+        "User_ID": "U108",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 201,
+        "Clics": 6,
+        "Fecha": "2023-02-08 00:00:00"
+    },
+    {
+        "User_ID": "U151",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 273,
+        "Clics": 1,
+        "Fecha": "2023-04-20 00:00:00"
+    },
+    {
+        "User_ID": "U056",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 36,
+        "Clics": 8,
+        "Fecha": "2023-04-16 00:00:00"
+    },
+    {
+        "User_ID": "U104",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 240,
+        "Clics": 1,
+        "Fecha": "2023-11-25 00:00:00"
+    },
+    {
+        "User_ID": "U182",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 271,
+        "Clics": 4,
+        "Fecha": "2023-12-26 00:00:00"
+    },
+    {
+        "User_ID": "U048",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 16,
+        "Clics": 10,
+        "Fecha": "2023-02-05 00:00:00"
+    },
+    {
+        "User_ID": "U184",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 189,
+        "Clics": 9,
+        "Fecha": "2023-12-01 00:00:00"
+    },
+    {
+        "User_ID": "U002",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 97,
+        "Clics": 9,
+        "Fecha": "2023-01-16 00:00:00"
+    },
+    {
+        "User_ID": "U158",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 124,
+        "Clics": 0,
+        "Fecha": "2023-09-20 00:00:00"
+    },
+    {
+        "User_ID": "U120",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 203,
+        "Clics": 7,
+        "Fecha": "2023-08-04 00:00:00"
+    },
+    {
+        "User_ID": "U124",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 55,
+        "Clics": 3,
+        "Fecha": "2023-01-24 00:00:00"
+    },
+    {
+        "User_ID": "U168",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 137,
+        "Clics": 9,
+        "Fecha": "2023-07-13 00:00:00"
+    },
+    {
+        "User_ID": "U124",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 234,
+        "Clics": 3,
+        "Fecha": "2023-02-12 00:00:00"
+    },
+    {
+        "User_ID": "U092",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 269,
+        "Clics": 3,
+        "Fecha": "2023-02-04 00:00:00"
+    },
+    {
+        "User_ID": "U019",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 296,
+        "Clics": 3,
+        "Fecha": "2023-12-13 00:00:00"
+    },
+    {
+        "User_ID": "U003",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 66,
+        "Clics": 5,
+        "Fecha": "2023-02-02 00:00:00"
+    },
+    {
+        "User_ID": "U142",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 151,
+        "Clics": 4,
+        "Fecha": "2023-10-09 00:00:00"
+    },
+    {
+        "User_ID": "U180",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 186,
+        "Clics": 0,
+        "Fecha": "2023-06-19 00:00:00"
+    },
+    {
+        "User_ID": "U110",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 238,
+        "Clics": 10,
+        "Fecha": "2023-10-31 00:00:00"
+    },
+    {
+        "User_ID": "U103",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 87,
+        "Clics": 10,
+        "Fecha": "2023-04-24 00:00:00"
+    },
+    {
+        "User_ID": "U071",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 168,
+        "Clics": 1,
+        "Fecha": "2023-04-26 00:00:00"
+    },
+    {
+        "User_ID": "U055",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 253,
+        "Clics": 3,
+        "Fecha": "2023-01-20 00:00:00"
+    },
+    {
+        "User_ID": "U015",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 150,
+        "Clics": 2,
+        "Fecha": "2023-07-14 00:00:00"
+    },
+    {
+        "User_ID": "U040",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 137,
+        "Clics": 8,
+        "Fecha": "2023-09-23 00:00:00"
+    },
+    {
+        "User_ID": "U175",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 12,
+        "Clics": 10,
+        "Fecha": "2023-07-05 00:00:00"
+    },
+    {
+        "User_ID": "U020",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 254,
+        "Clics": 5,
+        "Fecha": "2023-11-06 00:00:00"
+    },
+    {
+        "User_ID": "U127",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 193,
+        "Clics": 9,
+        "Fecha": "2023-07-12 00:00:00"
+    },
+    {
+        "User_ID": "U129",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 85,
+        "Clics": 7,
+        "Fecha": "2023-08-10 00:00:00"
+    },
+    {
+        "User_ID": "U132",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 144,
+        "Clics": 7,
+        "Fecha": "2023-02-16 00:00:00"
+    },
+    {
+        "User_ID": "U072",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 159,
+        "Clics": 3,
+        "Fecha": "2023-09-09 00:00:00"
+    },
+    {
+        "User_ID": "U189",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 226,
+        "Clics": 9,
+        "Fecha": "2023-07-02 00:00:00"
+    },
+    {
+        "User_ID": "U114",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 109,
+        "Clics": 10,
+        "Fecha": "2023-05-20 00:00:00"
+    },
+    {
+        "User_ID": "U059",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 28,
+        "Clics": 4,
+        "Fecha": "2023-12-29 00:00:00"
+    },
+    {
+        "User_ID": "U059",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 155,
+        "Clics": 1,
+        "Fecha": "2023-11-04 00:00:00"
+    },
+    {
+        "User_ID": "U193",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 73,
+        "Clics": 2,
+        "Fecha": "2023-07-17 00:00:00"
+    },
+    {
+        "User_ID": "U073",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 186,
+        "Clics": 9,
+        "Fecha": "2023-01-23 00:00:00"
+    },
+    {
+        "User_ID": "U154",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 121,
+        "Clics": 8,
+        "Fecha": "2023-10-20 00:00:00"
+    },
+    {
+        "User_ID": "U032",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 248,
+        "Clics": 3,
+        "Fecha": "2023-04-19 00:00:00"
+    },
+    {
+        "User_ID": "U122",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 138,
+        "Clics": 5,
+        "Fecha": "2023-03-05 00:00:00"
+    },
+    {
+        "User_ID": "U109",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 182,
+        "Clics": 5,
+        "Fecha": "2023-10-18 00:00:00"
+    },
+    {
+        "User_ID": "U046",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 95,
+        "Clics": 2,
+        "Fecha": "2023-09-15 00:00:00"
+    },
+    {
+        "User_ID": "U112",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 88,
+        "Clics": 7,
+        "Fecha": "2023-10-11 00:00:00"
+    },
+    {
+        "User_ID": "U029",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 221,
+        "Clics": 1,
+        "Fecha": "2023-10-16 00:00:00"
+    },
+    {
+        "User_ID": "U169",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 17,
+        "Clics": 2,
+        "Fecha": "2023-05-02 00:00:00"
+    },
+    {
+        "User_ID": "U181",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 265,
+        "Clics": 7,
+        "Fecha": "2023-08-06 00:00:00"
+    },
+    {
+        "User_ID": "U110",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 241,
+        "Clics": 9,
+        "Fecha": "2023-08-06 00:00:00"
+    },
+    {
+        "User_ID": "U031",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 180,
+        "Clics": 9,
+        "Fecha": "2023-10-14 00:00:00"
+    },
+    {
+        "User_ID": "U143",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 55,
+        "Clics": 0,
+        "Fecha": "2023-11-22 00:00:00"
+    },
+    {
+        "User_ID": "U017",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 232,
+        "Clics": 1,
+        "Fecha": "2023-08-07 00:00:00"
+    },
+    {
+        "User_ID": "U071",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 76,
+        "Clics": 7,
+        "Fecha": "2023-02-14 00:00:00"
+    },
+    {
+        "User_ID": "U083",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 100,
+        "Clics": 1,
+        "Fecha": "2023-03-11 00:00:00"
+    },
+    {
+        "User_ID": "U159",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 207,
+        "Clics": 6,
+        "Fecha": "2023-10-27 00:00:00"
+    },
+    {
+        "User_ID": "U151",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 147,
+        "Clics": 0,
+        "Fecha": "2023-12-29 00:00:00"
+    },
+    {
+        "User_ID": "U034",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 102,
+        "Clics": 7,
+        "Fecha": "2023-04-28 00:00:00"
+    },
+    {
+        "User_ID": "U001",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 21,
+        "Clics": 8,
+        "Fecha": "2023-06-14 00:00:00"
+    },
+    {
+        "User_ID": "U017",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 234,
+        "Clics": 10,
+        "Fecha": "2023-08-18 00:00:00"
+    },
+    {
+        "User_ID": "U164",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 84,
+        "Clics": 5,
+        "Fecha": "2023-02-21 00:00:00"
+    },
+    {
+        "User_ID": "U119",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 72,
+        "Clics": 10,
+        "Fecha": "2023-05-28 00:00:00"
+    },
+    {
+        "User_ID": "U200",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 30,
+        "Clics": 4,
+        "Fecha": "2023-10-20 00:00:00"
+    },
+    {
+        "User_ID": "U151",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 266,
+        "Clics": 5,
+        "Fecha": "2023-10-08 00:00:00"
+    },
+    {
+        "User_ID": "U122",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 12,
+        "Clics": 9,
+        "Fecha": "2023-04-07 00:00:00"
+    },
+    {
+        "User_ID": "U038",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 290,
+        "Clics": 5,
+        "Fecha": "2023-08-25 00:00:00"
+    },
+    {
+        "User_ID": "U023",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 84,
+        "Clics": 0,
+        "Fecha": "2023-09-08 00:00:00"
+    },
+    {
+        "User_ID": "U059",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 246,
+        "Clics": 9,
+        "Fecha": "2023-09-23 00:00:00"
+    },
+    {
+        "User_ID": "U162",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 296,
+        "Clics": 7,
+        "Fecha": "2023-08-29 00:00:00"
+    },
+    {
+        "User_ID": "U175",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 149,
+        "Clics": 6,
+        "Fecha": "2023-04-23 00:00:00"
+    },
+    {
+        "User_ID": "U007",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 222,
+        "Clics": 8,
+        "Fecha": "2023-03-02 00:00:00"
+    },
+    {
+        "User_ID": "U072",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 207,
+        "Clics": 3,
+        "Fecha": "2023-08-10 00:00:00"
+    },
+    {
+        "User_ID": "U095",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 241,
+        "Clics": 9,
+        "Fecha": "2023-08-17 00:00:00"
+    },
+    {
+        "User_ID": "U099",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 98,
+        "Clics": 8,
+        "Fecha": "2023-02-12 00:00:00"
+    },
+    {
+        "User_ID": "U016",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 42,
+        "Clics": 0,
+        "Fecha": "2023-12-03 00:00:00"
+    },
+    {
+        "User_ID": "U119",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 108,
+        "Clics": 3,
+        "Fecha": "2023-03-09 00:00:00"
+    },
+    {
+        "User_ID": "U023",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 120,
+        "Clics": 2,
+        "Fecha": "2023-05-10 00:00:00"
+    },
+    {
+        "User_ID": "U014",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 133,
+        "Clics": 1,
+        "Fecha": "2023-04-23 00:00:00"
+    },
+    {
+        "User_ID": "U058",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 119,
+        "Clics": 10,
+        "Fecha": "2023-05-19 00:00:00"
+    },
+    {
+        "User_ID": "U192",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 192,
+        "Clics": 10,
+        "Fecha": "2023-11-25 00:00:00"
+    },
+    {
+        "User_ID": "U139",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 127,
+        "Clics": 8,
+        "Fecha": "2023-03-10 00:00:00"
+    },
+    {
+        "User_ID": "U195",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 99,
+        "Clics": 0,
+        "Fecha": "2023-04-03 00:00:00"
+    },
+    {
+        "User_ID": "U100",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 275,
+        "Clics": 6,
+        "Fecha": "2023-11-14 00:00:00"
+    },
+    {
+        "User_ID": "U093",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 239,
+        "Clics": 10,
+        "Fecha": "2023-02-16 00:00:00"
+    },
+    {
+        "User_ID": "U180",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 212,
+        "Clics": 1,
+        "Fecha": "2023-07-09 00:00:00"
+    },
+    {
+        "User_ID": "U187",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 100,
+        "Clics": 7,
+        "Fecha": "2023-04-24 00:00:00"
+    },
+    {
+        "User_ID": "U155",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 154,
+        "Clics": 10,
+        "Fecha": "2023-06-12 00:00:00"
+    },
+    {
+        "User_ID": "U017",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 143,
+        "Clics": 6,
+        "Fecha": "2023-05-17 00:00:00"
+    },
+    {
+        "User_ID": "U014",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 150,
+        "Clics": 1,
+        "Fecha": "2023-01-11 00:00:00"
+    },
+    {
+        "User_ID": "U062",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 300,
+        "Clics": 4,
+        "Fecha": "2023-05-01 00:00:00"
+    },
+    {
+        "User_ID": "U043",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 180,
+        "Clics": 1,
+        "Fecha": "2023-05-21 00:00:00"
+    },
+    {
+        "User_ID": "U117",
+        "Pagina_Visitada": "Smartphone",
+        "Tiempo_en_Pagina_seg": 177,
+        "Clics": 7,
+        "Fecha": "2023-08-03 00:00:00"
+    },
+    {
+        "User_ID": "U068",
+        "Pagina_Visitada": "Carrito",
+        "Tiempo_en_Pagina_seg": 128,
+        "Clics": 0,
+        "Fecha": "2023-06-14 00:00:00"
+    },
+    {
+        "User_ID": "U104",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 194,
+        "Clics": 6,
+        "Fecha": "2023-02-03 00:00:00"
+    },
+    {
+        "User_ID": "U022",
+        "Pagina_Visitada": "Sofa",
+        "Tiempo_en_Pagina_seg": 21,
+        "Clics": 9,
+        "Fecha": "2023-09-02 00:00:00"
+    },
+    {
+        "User_ID": "U073",
+        "Pagina_Visitada": "Camiseta",
+        "Tiempo_en_Pagina_seg": 23,
+        "Clics": 0,
+        "Fecha": "2023-07-02 00:00:00"
+    },
+    {
+        "User_ID": "U167",
+        "Pagina_Visitada": "Pagina Principal",
+        "Tiempo_en_Pagina_seg": 223,
+        "Clics": 4,
+        "Fecha": "2023-03-11 00:00:00"
+    },
+    {
+        "User_ID": "U065",
+        "Pagina_Visitada": "Pagina de Contacto",
+        "Tiempo_en_Pagina_seg": 236,
+        "Clics": 5,
+        "Fecha": "2023-03-26 00:00:00"
+    }
+]

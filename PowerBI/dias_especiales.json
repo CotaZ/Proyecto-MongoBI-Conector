@@ -1,0 +1,110 @@
+[
+    {
+        "Mes": "Enero",
+        "Evento": "Rebajas de Año Nuevo",
+        "Descripcion": "Promociones y descuentos para liquidar inventario tras las festividades de fin de año.",
+        "Campañas_Marketing": [
+            "Descuentos del 50% en productos seleccionados",
+            "Envío gratuito en pedidos superiores a $50"
+        ]
+    },
+    {
+        "Mes": "Febrero",
+        "Evento": "Día de San Valentín",
+        "Descripcion": "Campañas enfocadas en regalos románticos, como flores, chocolates, joyas, etc.",
+        "Campañas_Marketing": [
+            "Ofertas en joyería y perfumes",
+            "Paquetes de regalo personalizados"
+        ]
+    },
+    {
+        "Mes": "Marzo",
+        "Evento": "Lanzamientos de Primavera",
+        "Descripcion": "Introducción de nuevos productos de temporada, especialmente en moda y decoración del hogar.",
+        "Campañas_Marketing": [
+            "Nueva colección de ropa de primavera",
+            "Descuentos en artículos de jardín"
+        ]
+    },
+    {
+        "Mes": "Abril",
+        "Evento": "Día de la Tierra",
+        "Descripcion": "Campañas de marketing centradas en productos ecológicos y sostenibles.",
+        "Campañas_Marketing": [
+            "Descuentos en productos eco-amigables",
+            "Promociones de reciclaje y recompensas"
+        ]
+    },
+    {
+        "Mes": "Mayo",
+        "Evento": "Día de la Madre",
+        "Descripcion": "Aumento de ventas en regalos y experiencias para madres, incluidas joyas y productos de cuidado personal.",
+        "Campañas_Marketing": [
+            "Paquetes de spa y bienestar",
+            "Ofertas en flores y chocolates"
+        ]
+    },
+    {
+        "Mes": "Junio",
+        "Evento": "Inicio del Verano",
+        "Descripcion": "Ofertas de productos para el verano, como ropa de baño, equipo deportivo y artículos de viaje.",
+        "Campañas_Marketing": [
+            "Descuentos en trajes de baño y accesorios de playa",
+            "Promociones de verano en viajes"
+        ]
+    },
+    {
+        "Mes": "Julio",
+        "Evento": "Día de la Independencia (USA)",
+        "Descripcion": "Ventas especiales en productos relacionados con el verano y celebraciones patrióticas.",
+        "Campañas_Marketing": [
+            "Descuentos en parrillas y artículos de picnic",
+            "Ofertas en fuegos artificiales"
+        ]
+    },
+    {
+        "Mes": "Agosto",
+        "Evento": "Vuelta al Cole",
+        "Descripcion": "Promociones en útiles escolares, ropa y tecnología.",
+        "Campañas_Marketing": [
+            "Descuentos en mochilas y útiles escolares",
+            "Ofertas en tecnología para estudiantes"
+        ]
+    },
+    {
+        "Mes": "Septiembre",
+        "Evento": "Inicio de Otoño",
+        "Descripcion": "Lanzamientos de productos de moda y hogar para la temporada de otoño.",
+        "Campañas_Marketing": [
+            "Nuevas colecciones de ropa de otoño",
+            "Descuentos en decoración de temporada"
+        ]
+    },
+    {
+        "Mes": "Octubre",
+        "Evento": "Halloween",
+        "Descripcion": "Campañas de marketing centradas en disfraces, decoraciones y dulces.",
+        "Campañas_Marketing": [
+            "Ofertas en disfraces y decoraciones",
+            "Promociones de dulces en paquetes"
+        ]
+    },
+    {
+        "Mes": "Noviembre",
+        "Evento": "Black Friday",
+        "Descripcion": "Ofertas masivas en una variedad de productos; es uno de los días de mayor ventas del año.",
+        "Campañas_Marketing": [
+            "Descuentos del 70% en productos seleccionados",
+            "Ofertas por tiempo limitado"
+        ]
+    },
+    {
+        "Mes": "Diciembre",
+        "Evento": "Navidad y Fin de Año",
+        "Descripcion": "Campañas de marketing para regalos, decoraciones y celebraciones de fin de año.",
+        "Campañas_Marketing": [
+            "Paquetes de regalos y envíos gratis",
+            "Ofertas de liquidación de fin de año"
+        ]
+    }
+]

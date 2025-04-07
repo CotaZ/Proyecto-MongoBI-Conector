@@ -1,0 +1,14 @@
+# Ignorar el archivo .env que contiene credenciales sensibles
+.env
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar configuraciones específicas de IDEs
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1402 @@
+[
+    {
+        "User_ID": "U001",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-03-19 00:00:00"
+    },
+    {
+        "User_ID": "U002",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-07-14 00:00:00"
+    },
+    {
+        "User_ID": "U003",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-03-23 00:00:00"
+    },
+    {
+        "User_ID": "U004",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-11-04 00:00:00"
+    },
+    {
+        "User_ID": "U005",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-06-19 00:00:00"
+    },
+    {
+        "User_ID": "U006",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-05-24 00:00:00"
+    },
+    {
+        "User_ID": "U007",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-03-29 00:00:00"
+    },
+    {
+        "User_ID": "U008",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-07-10 00:00:00"
+    },
+    {
+        "User_ID": "U009",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-06-16 00:00:00"
+    },
+    {
+        "User_ID": "U010",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-12-14 00:00:00"
+    },
+    {
+        "User_ID": "U011",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-05-29 00:00:00"
+    },
+    {
+        "User_ID": "U012",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-05-11 00:00:00"
+    },
+    {
+        "User_ID": "U013",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-05-04 00:00:00"
+    },
+    {
+        "User_ID": "U014",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-05-07 00:00:00"
+    },
+    {
+        "User_ID": "U015",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-05-21 00:00:00"
+    },
+    {
+        "User_ID": "U016",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-04-17 00:00:00"
+    },
+    {
+        "User_ID": "U017",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-02-17 00:00:00"
+    },
+    {
+        "User_ID": "U018",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-07-10 00:00:00"
+    },
+    {
+        "User_ID": "U019",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-03 00:00:00"
+    },
+    {
+        "User_ID": "U020",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-08-12 00:00:00"
+    },
+    {
+        "User_ID": "U021",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-07-17 00:00:00"
+    },
+    {
+        "User_ID": "U022",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-08-03 00:00:00"
+    },
+    {
+        "User_ID": "U023",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-04-15 00:00:00"
+    },
+    {
+        "User_ID": "U024",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-04-17 00:00:00"
+    },
+    {
+        "User_ID": "U025",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-06 00:00:00"
+    },
+    {
+        "User_ID": "U026",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-07-29 00:00:00"
+    },
+    {
+        "User_ID": "U027",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-04-14 00:00:00"
+    },
+    {
+        "User_ID": "U028",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-06-26 00:00:00"
+    },
+    {
+        "User_ID": "U029",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-01 00:00:00"
+    },
+    {
+        "User_ID": "U030",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-11-22 00:00:00"
+    },
+    {
+        "User_ID": "U031",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-10-28 00:00:00"
+    },
+    {
+        "User_ID": "U032",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-03-08 00:00:00"
+    },
+    {
+        "User_ID": "U033",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-02-17 00:00:00"
+    },
+    {
+        "User_ID": "U034",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-01-21 00:00:00"
+    },
+    {
+        "User_ID": "U035",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-03-22 00:00:00"
+    },
+    {
+        "User_ID": "U036",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-01-04 00:00:00"
+    },
+    {
+        "User_ID": "U037",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-10-09 00:00:00"
+    },
+    {
+        "User_ID": "U038",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-08-21 00:00:00"
+    },
+    {
+        "User_ID": "U039",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-10-22 00:00:00"
+    },
+    {
+        "User_ID": "U040",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-07-21 00:00:00"
+    },
+    {
+        "User_ID": "U041",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-08-23 00:00:00"
+    },
+    {
+        "User_ID": "U042",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-12-17 00:00:00"
+    },
+    {
+        "User_ID": "U043",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-09-11 00:00:00"
+    },
+    {
+        "User_ID": "U044",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-12-20 00:00:00"
+    },
+    {
+        "User_ID": "U045",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-11-21 00:00:00"
+    },
+    {
+        "User_ID": "U046",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-01-05 00:00:00"
+    },
+    {
+        "User_ID": "U047",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-08-29 00:00:00"
+    },
+    {
+        "User_ID": "U048",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-11-20 00:00:00"
+    },
+    {
+        "User_ID": "U049",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-12-13 00:00:00"
+    },
+    {
+        "User_ID": "U050",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-09-18 00:00:00"
+    },
+    {
+        "User_ID": "U051",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-06-04 00:00:00"
+    },
+    {
+        "User_ID": "U052",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-03-05 00:00:00"
+    },
+    {
+        "User_ID": "U053",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-08-01 00:00:00"
+    },
+    {
+        "User_ID": "U054",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-10-13 00:00:00"
+    },
+    {
+        "User_ID": "U055",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-01-20 00:00:00"
+    },
+    {
+        "User_ID": "U056",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-01-31 00:00:00"
+    },
+    {
+        "User_ID": "U057",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-05-19 00:00:00"
+    },
+    {
+        "User_ID": "U058",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-11-14 00:00:00"
+    },
+    {
+        "User_ID": "U059",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-12-06 00:00:00"
+    },
+    {
+        "User_ID": "U060",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-04-08 00:00:00"
+    },
+    {
+        "User_ID": "U061",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-06-02 00:00:00"
+    },
+    {
+        "User_ID": "U062",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-11-07 00:00:00"
+    },
+    {
+        "User_ID": "U063",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-04-21 00:00:00"
+    },
+    {
+        "User_ID": "U064",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-02-19 00:00:00"
+    },
+    {
+        "User_ID": "U065",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2023-01-01 00:00:00"
+    },
+    {
+        "User_ID": "U066",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-05-07 00:00:00"
+    },
+    {
+        "User_ID": "U067",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-10-26 00:00:00"
+    },
+    {
+        "User_ID": "U068",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-24 00:00:00"
+    },
+    {
+        "User_ID": "U069",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-03-16 00:00:00"
+    },
+    {
+        "User_ID": "U070",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-02-24 00:00:00"
+    },
+    {
+        "User_ID": "U071",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-03-19 00:00:00"
+    },
+    {
+        "User_ID": "U072",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-08-28 00:00:00"
+    },
+    {
+        "User_ID": "U073",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-03-12 00:00:00"
+    },
+    {
+        "User_ID": "U074",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-07-12 00:00:00"
+    },
+    {
+        "User_ID": "U075",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-01-27 00:00:00"
+    },
+    {
+        "User_ID": "U076",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-12-01 00:00:00"
+    },
+    {
+        "User_ID": "U077",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-04-19 00:00:00"
+    },
+    {
+        "User_ID": "U078",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-02-18 00:00:00"
+    },
+    {
+        "User_ID": "U079",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-05-22 00:00:00"
+    },
+    {
+        "User_ID": "U080",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-09-03 00:00:00"
+    },
+    {
+        "User_ID": "U081",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-03-23 00:00:00"
+    },
+    {
+        "User_ID": "U082",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-04-26 00:00:00"
+    },
+    {
+        "User_ID": "U083",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-08-06 00:00:00"
+    },
+    {
+        "User_ID": "U084",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-10-30 00:00:00"
+    },
+    {
+        "User_ID": "U085",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-02-20 00:00:00"
+    },
+    {
+        "User_ID": "U086",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-01-18 00:00:00"
+    },
+    {
+        "User_ID": "U087",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-02-03 00:00:00"
+    },
+    {
+        "User_ID": "U088",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-02-25 00:00:00"
+    },
+    {
+        "User_ID": "U089",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2023-01-01 00:00:00"
+    },
+    {
+        "User_ID": "U090",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-12-15 00:00:00"
+    },
+    {
+        "User_ID": "U091",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-10-11 00:00:00"
+    },
+    {
+        "User_ID": "U092",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-04-07 00:00:00"
+    },
+    {
+        "User_ID": "U093",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-12-15 00:00:00"
+    },
+    {
+        "User_ID": "U094",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-03-15 00:00:00"
+    },
+    {
+        "User_ID": "U095",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-08-06 00:00:00"
+    },
+    {
+        "User_ID": "U096",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-11-20 00:00:00"
+    },
+    {
+        "User_ID": "U097",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-06-13 00:00:00"
+    },
+    {
+        "User_ID": "U098",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-03-27 00:00:00"
+    },
+    {
+        "User_ID": "U099",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-11-24 00:00:00"
+    },
+    {
+        "User_ID": "U100",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-08-12 00:00:00"
+    },
+    {
+        "User_ID": "U101",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-09-29 00:00:00"
+    },
+    {
+        "User_ID": "U102",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-11-17 00:00:00"
+    },
+    {
+        "User_ID": "U103",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-06-25 00:00:00"
+    },
+    {
+        "User_ID": "U104",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-11-22 00:00:00"
+    },
+    {
+        "User_ID": "U105",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-10-16 00:00:00"
+    },
+    {
+        "User_ID": "U106",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-01-07 00:00:00"
+    },
+    {
+        "User_ID": "U107",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-01-02 00:00:00"
+    },
+    {
+        "User_ID": "U108",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-11-14 00:00:00"
+    },
+    {
+        "User_ID": "U109",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-02-26 00:00:00"
+    },
+    {
+        "User_ID": "U110",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-06-07 00:00:00"
+    },
+    {
+        "User_ID": "U111",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-01-15 00:00:00"
+    },
+    {
+        "User_ID": "U112",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-03-10 00:00:00"
+    },
+    {
+        "User_ID": "U113",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-10-28 00:00:00"
+    },
+    {
+        "User_ID": "U114",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-04-18 00:00:00"
+    },
+    {
+        "User_ID": "U115",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-06-17 00:00:00"
+    },
+    {
+        "User_ID": "U116",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-10-02 00:00:00"
+    },
+    {
+        "User_ID": "U117",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-08-02 00:00:00"
+    },
+    {
+        "User_ID": "U118",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-01-13 00:00:00"
+    },
+    {
+        "User_ID": "U119",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-01-03 00:00:00"
+    },
+    {
+        "User_ID": "U120",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-05-02 00:00:00"
+    },
+    {
+        "User_ID": "U121",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-08-19 00:00:00"
+    },
+    {
+        "User_ID": "U122",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-21 00:00:00"
+    },
+    {
+        "User_ID": "U123",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-12-04 00:00:00"
+    },
+    {
+        "User_ID": "U124",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-06-03 00:00:00"
+    },
+    {
+        "User_ID": "U125",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-01-06 00:00:00"
+    },
+    {
+        "User_ID": "U126",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-08-08 00:00:00"
+    },
+    {
+        "User_ID": "U127",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-08-01 00:00:00"
+    },
+    {
+        "User_ID": "U128",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-08-08 00:00:00"
+    },
+    {
+        "User_ID": "U129",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-10-28 00:00:00"
+    },
+    {
+        "User_ID": "U130",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-08-11 00:00:00"
+    },
+    {
+        "User_ID": "U131",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-08-27 00:00:00"
+    },
+    {
+        "User_ID": "U132",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-08-03 00:00:00"
+    },
+    {
+        "User_ID": "U133",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-12-13 00:00:00"
+    },
+    {
+        "User_ID": "U134",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-07-12 00:00:00"
+    },
+    {
+        "User_ID": "U135",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-04-06 00:00:00"
+    },
+    {
+        "User_ID": "U136",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-09-14 00:00:00"
+    },
+    {
+        "User_ID": "U137",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-10-05 00:00:00"
+    },
+    {
+        "User_ID": "U138",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-26 00:00:00"
+    },
+    {
+        "User_ID": "U139",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-07-21 00:00:00"
+    },
+    {
+        "User_ID": "U140",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-03-28 00:00:00"
+    },
+    {
+        "User_ID": "U141",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-03-30 00:00:00"
+    },
+    {
+        "User_ID": "U142",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-11-30 00:00:00"
+    },
+    {
+        "User_ID": "U143",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2023-01-01 00:00:00"
+    },
+    {
+        "User_ID": "U144",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-12-28 00:00:00"
+    },
+    {
+        "User_ID": "U145",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-04-06 00:00:00"
+    },
+    {
+        "User_ID": "U146",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-12-12 00:00:00"
+    },
+    {
+        "User_ID": "U147",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-01-09 00:00:00"
+    },
+    {
+        "User_ID": "U148",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-27 00:00:00"
+    },
+    {
+        "User_ID": "U149",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-05-18 00:00:00"
+    },
+    {
+        "User_ID": "U150",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-11-29 00:00:00"
+    },
+    {
+        "User_ID": "U151",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-01-29 00:00:00"
+    },
+    {
+        "User_ID": "U152",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-05-01 00:00:00"
+    },
+    {
+        "User_ID": "U153",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-10-11 00:00:00"
+    },
+    {
+        "User_ID": "U154",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-02-13 00:00:00"
+    },
+    {
+        "User_ID": "U155",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-01-25 00:00:00"
+    },
+    {
+        "User_ID": "U156",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-08-02 00:00:00"
+    },
+    {
+        "User_ID": "U157",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-01-17 00:00:00"
+    },
+    {
+        "User_ID": "U158",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-12-07 00:00:00"
+    },
+    {
+        "User_ID": "U159",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-06-18 00:00:00"
+    },
+    {
+        "User_ID": "U160",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-02-23 00:00:00"
+    },
+    {
+        "User_ID": "U161",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-08-08 00:00:00"
+    },
+    {
+        "User_ID": "U162",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-06-13 00:00:00"
+    },
+    {
+        "User_ID": "U163",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-02-26 00:00:00"
+    },
+    {
+        "User_ID": "U164",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-10-27 00:00:00"
+    },
+    {
+        "User_ID": "U165",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-05-20 00:00:00"
+    },
+    {
+        "User_ID": "U166",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-09-27 00:00:00"
+    },
+    {
+        "User_ID": "U167",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-06-19 00:00:00"
+    },
+    {
+        "User_ID": "U168",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-07-14 00:00:00"
+    },
+    {
+        "User_ID": "U169",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-12-09 00:00:00"
+    },
+    {
+        "User_ID": "U170",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-09-04 00:00:00"
+    },
+    {
+        "User_ID": "U171",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-02-25 00:00:00"
+    },
+    {
+        "User_ID": "U172",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-12-03 00:00:00"
+    },
+    {
+        "User_ID": "U173",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-08-29 00:00:00"
+    },
+    {
+        "User_ID": "U174",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-09-03 00:00:00"
+    },
+    {
+        "User_ID": "U175",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-04-27 00:00:00"
+    },
+    {
+        "User_ID": "U176",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-10-19 00:00:00"
+    },
+    {
+        "User_ID": "U177",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-12-14 00:00:00"
+    },
+    {
+        "User_ID": "U178",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-01-08 00:00:00"
+    },
+    {
+        "User_ID": "U179",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-03-15 00:00:00"
+    },
+    {
+        "User_ID": "U180",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-07-20 00:00:00"
+    },
+    {
+        "User_ID": "U181",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-09-13 00:00:00"
+    },
+    {
+        "User_ID": "U182",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-01-26 00:00:00"
+    },
+    {
+        "User_ID": "U183",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-03-30 00:00:00"
+    },
+    {
+        "User_ID": "U184",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-11-14 00:00:00"
+    },
+    {
+        "User_ID": "U185",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-04-28 00:00:00"
+    },
+    {
+        "User_ID": "U186",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-09-07 00:00:00"
+    },
+    {
+        "User_ID": "U187",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-06-16 00:00:00"
+    },
+    {
+        "User_ID": "U188",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-10-17 00:00:00"
+    },
+    {
+        "User_ID": "U189",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-04-17 00:00:00"
+    },
+    {
+        "User_ID": "U190",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-03-31 00:00:00"
+    },
+    {
+        "User_ID": "U191",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-07-18 00:00:00"
+    },
+    {
+        "User_ID": "U192",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-05-29 00:00:00"
+    },
+    {
+        "User_ID": "U193",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-05-25 00:00:00"
+    },
+    {
+        "User_ID": "U194",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-07-30 00:00:00"
+    },
+    {
+        "User_ID": "U195",
+        "Segmento": "Recurrente",
+        "Fuente_de_Trafico": "Directo",
+        "Pais": "Colombia",
+        "Fecha_de_Registro": "2022-10-04 00:00:00"
+    },
+    {
+        "User_ID": "U196",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "Espana",
+        "Fecha_de_Registro": "2022-08-08 00:00:00"
+    },
+    {
+        "User_ID": "U197",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Google Ads",
+        "Pais": "Mexico",
+        "Fecha_de_Registro": "2022-03-03 00:00:00"
+    },
+    {
+        "User_ID": "U198",
+        "Segmento": "Frecuente",
+        "Fuente_de_Trafico": "Redes Sociales",
+        "Pais": "USA",
+        "Fecha_de_Registro": "2022-10-09 00:00:00"
+    },
+    {
+        "User_ID": "U199",
+        "Segmento": "Ocasional",
+        "Fuente_de_Trafico": "Email Marketing",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-11-27 00:00:00"
+    },
+    {
+        "User_ID": "U200",
+        "Segmento": "Nuevo",
+        "Fuente_de_Trafico": "Afiliados",
+        "Pais": "Brasil",
+        "Fecha_de_Registro": "2022-05-11 00:00:00"
+    }
+]
