@@ -1,0 +1,802 @@
+[
+  {
+      "Carrito_ID": "C1",
+      "User_ID": "U047",
+      "Producto": "Sofa",
+      "Cantidad": 1,
+      "Precio_Unitario": 145,
+      "Fecha_Anadido": "2023-01-08 00:00:00"
+  },
+  {
+      "Carrito_ID": "C2",
+      "User_ID": "U050",
+      "Producto": "Reloj",
+      "Cantidad": 2,
+      "Precio_Unitario": 134,
+      "Fecha_Anadido": "2023-01-28 00:00:00"
+  },
+  {
+      "Carrito_ID": "C3",
+      "User_ID": "U062",
+      "Producto": "Smartphone",
+      "Cantidad": 3,
+      "Precio_Unitario": 163,
+      "Fecha_Anadido": "2023-10-13 00:00:00"
+  },
+  {
+      "Carrito_ID": "C4",
+      "User_ID": "U161",
+      "Producto": "Bicicleta",
+      "Cantidad": 3,
+      "Precio_Unitario": 85,
+      "Fecha_Anadido": "2023-07-31 00:00:00"
+  },
+  {
+      "Carrito_ID": "C5",
+      "User_ID": "U006",
+      "Producto": "Reloj",
+      "Cantidad": 4,
+      "Precio_Unitario": 310,
+      "Fecha_Anadido": "2023-10-31 00:00:00"
+  },
+  {
+      "Carrito_ID": "C6",
+      "User_ID": "U073",
+      "Producto": "Smartphone",
+      "Cantidad": 3,
+      "Precio_Unitario": 398,
+      "Fecha_Anadido": "2023-02-16 00:00:00"
+  },
+  {
+      "Carrito_ID": "C7",
+      "User_ID": "U157",
+      "Producto": "Smartphone",
+      "Cantidad": 2,
+      "Precio_Unitario": 26,
+      "Fecha_Anadido": "2023-06-05 00:00:00"
+  },
+  {
+      "Carrito_ID": "C8",
+      "User_ID": "U195",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 377,
+      "Fecha_Anadido": "2023-01-27 00:00:00"
+  },
+  {
+      "Carrito_ID": "C9",
+      "User_ID": "U019",
+      "Producto": "Bicicleta",
+      "Cantidad": 4,
+      "Precio_Unitario": 328,
+      "Fecha_Anadido": "2023-03-31 00:00:00"
+  },
+  {
+      "Carrito_ID": "C10",
+      "User_ID": "U145",
+      "Producto": "Sofa",
+      "Cantidad": 4,
+      "Precio_Unitario": 114,
+      "Fecha_Anadido": "2023-03-18 00:00:00"
+  },
+  {
+      "Carrito_ID": "C11",
+      "User_ID": "U016",
+      "Producto": "Reloj",
+      "Cantidad": 1,
+      "Precio_Unitario": 138,
+      "Fecha_Anadido": "2023-12-21 00:00:00"
+  },
+  {
+      "Carrito_ID": "C12",
+      "User_ID": "U185",
+      "Producto": "Reloj",
+      "Cantidad": 1,
+      "Precio_Unitario": 272,
+      "Fecha_Anadido": "2023-10-03 00:00:00"
+  },
+  {
+      "Carrito_ID": "C13",
+      "User_ID": "U036",
+      "Producto": "Bicicleta",
+      "Cantidad": 1,
+      "Precio_Unitario": 210,
+      "Fecha_Anadido": "2023-01-21 00:00:00"
+  },
+  {
+      "Carrito_ID": "C14",
+      "User_ID": "U101",
+      "Producto": "Bicicleta",
+      "Cantidad": 3,
+      "Precio_Unitario": 440,
+      "Fecha_Anadido": "2023-05-07 00:00:00"
+  },
+  {
+      "Carrito_ID": "C15",
+      "User_ID": "U158",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 70,
+      "Fecha_Anadido": "2023-05-24 00:00:00"
+  },
+  {
+      "Carrito_ID": "C16",
+      "User_ID": "U116",
+      "Producto": "Smartphone",
+      "Cantidad": 3,
+      "Precio_Unitario": 436,
+      "Fecha_Anadido": "2023-11-25 00:00:00"
+  },
+  {
+      "Carrito_ID": "C17",
+      "User_ID": "U069",
+      "Producto": "Sofa",
+      "Cantidad": 4,
+      "Precio_Unitario": 62,
+      "Fecha_Anadido": "2023-11-04 00:00:00"
+  },
+  {
+      "Carrito_ID": "C18",
+      "User_ID": "U158",
+      "Producto": "Bicicleta",
+      "Cantidad": 3,
+      "Precio_Unitario": 43,
+      "Fecha_Anadido": "2023-08-13 00:00:00"
+  },
+  {
+      "Carrito_ID": "C19",
+      "User_ID": "U025",
+      "Producto": "Camiseta",
+      "Cantidad": 1,
+      "Precio_Unitario": 430,
+      "Fecha_Anadido": "2023-02-13 00:00:00"
+  },
+  {
+      "Carrito_ID": "C20",
+      "User_ID": "U197",
+      "Producto": "Camiseta",
+      "Cantidad": 3,
+      "Precio_Unitario": 346,
+      "Fecha_Anadido": "2023-11-13 00:00:00"
+  },
+  {
+      "Carrito_ID": "C21",
+      "User_ID": "U124",
+      "Producto": "Bicicleta",
+      "Cantidad": 2,
+      "Precio_Unitario": 356,
+      "Fecha_Anadido": "2023-12-09 00:00:00"
+  },
+  {
+      "Carrito_ID": "C22",
+      "User_ID": "U059",
+      "Producto": "Sofa",
+      "Cantidad": 1,
+      "Precio_Unitario": 52,
+      "Fecha_Anadido": "2023-07-21 00:00:00"
+  },
+  {
+      "Carrito_ID": "C23",
+      "User_ID": "U068",
+      "Producto": "Camiseta",
+      "Cantidad": 3,
+      "Precio_Unitario": 55,
+      "Fecha_Anadido": "2023-02-26 00:00:00"
+  },
+  {
+      "Carrito_ID": "C24",
+      "User_ID": "U053",
+      "Producto": "Bicicleta",
+      "Cantidad": 2,
+      "Precio_Unitario": 262,
+      "Fecha_Anadido": "2023-03-08 00:00:00"
+  },
+  {
+      "Carrito_ID": "C25",
+      "User_ID": "U130",
+      "Producto": "Sofa",
+      "Cantidad": 3,
+      "Precio_Unitario": 66,
+      "Fecha_Anadido": "2023-06-23 00:00:00"
+  },
+  {
+      "Carrito_ID": "C26",
+      "User_ID": "U114",
+      "Producto": "Smartphone",
+      "Cantidad": 4,
+      "Precio_Unitario": 456,
+      "Fecha_Anadido": "2023-05-16 00:00:00"
+  },
+  {
+      "Carrito_ID": "C27",
+      "User_ID": "U140",
+      "Producto": "Reloj",
+      "Cantidad": 2,
+      "Precio_Unitario": 471,
+      "Fecha_Anadido": "2023-12-03 00:00:00"
+  },
+  {
+      "Carrito_ID": "C28",
+      "User_ID": "U009",
+      "Producto": "Sofa",
+      "Cantidad": 2,
+      "Precio_Unitario": 393,
+      "Fecha_Anadido": "2023-09-27 00:00:00"
+  },
+  {
+      "Carrito_ID": "C29",
+      "User_ID": "U072",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 160,
+      "Fecha_Anadido": "2023-01-31 00:00:00"
+  },
+  {
+      "Carrito_ID": "C30",
+      "User_ID": "U158",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 274,
+      "Fecha_Anadido": "2023-12-19 00:00:00"
+  },
+  {
+      "Carrito_ID": "C31",
+      "User_ID": "U053",
+      "Producto": "Bicicleta",
+      "Cantidad": 2,
+      "Precio_Unitario": 126,
+      "Fecha_Anadido": "2023-11-13 00:00:00"
+  },
+  {
+      "Carrito_ID": "C32",
+      "User_ID": "U189",
+      "Producto": "Reloj",
+      "Cantidad": 3,
+      "Precio_Unitario": 407,
+      "Fecha_Anadido": "2023-09-28 00:00:00"
+  },
+  {
+      "Carrito_ID": "C33",
+      "User_ID": "U159",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 380,
+      "Fecha_Anadido": "2023-05-17 00:00:00"
+  },
+  {
+      "Carrito_ID": "C34",
+      "User_ID": "U050",
+      "Producto": "Sofa",
+      "Cantidad": 2,
+      "Precio_Unitario": 156,
+      "Fecha_Anadido": "2023-08-21 00:00:00"
+  },
+  {
+      "Carrito_ID": "C35",
+      "User_ID": "U070",
+      "Producto": "Reloj",
+      "Cantidad": 2,
+      "Precio_Unitario": 336,
+      "Fecha_Anadido": "2023-09-18 00:00:00"
+  },
+  {
+      "Carrito_ID": "C36",
+      "User_ID": "U034",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 470,
+      "Fecha_Anadido": "2023-12-04 00:00:00"
+  },
+  {
+      "Carrito_ID": "C37",
+      "User_ID": "U166",
+      "Producto": "Bicicleta",
+      "Cantidad": 1,
+      "Precio_Unitario": 405,
+      "Fecha_Anadido": "2023-10-12 00:00:00"
+  },
+  {
+      "Carrito_ID": "C38",
+      "User_ID": "U048",
+      "Producto": "Bicicleta",
+      "Cantidad": 4,
+      "Precio_Unitario": 176,
+      "Fecha_Anadido": "2023-08-09 00:00:00"
+  },
+  {
+      "Carrito_ID": "C39",
+      "User_ID": "U084",
+      "Producto": "Bicicleta",
+      "Cantidad": 4,
+      "Precio_Unitario": 164,
+      "Fecha_Anadido": "2023-12-19 00:00:00"
+  },
+  {
+      "Carrito_ID": "C40",
+      "User_ID": "U159",
+      "Producto": "Reloj",
+      "Cantidad": 2,
+      "Precio_Unitario": 56,
+      "Fecha_Anadido": "2023-12-31 00:00:00"
+  },
+  {
+      "Carrito_ID": "C41",
+      "User_ID": "U037",
+      "Producto": "Sofa",
+      "Cantidad": 2,
+      "Precio_Unitario": 208,
+      "Fecha_Anadido": "2023-12-25 00:00:00"
+  },
+  {
+      "Carrito_ID": "C42",
+      "User_ID": "U012",
+      "Producto": "Bicicleta",
+      "Cantidad": 2,
+      "Precio_Unitario": 24,
+      "Fecha_Anadido": "2023-05-14 00:00:00"
+  },
+  {
+      "Carrito_ID": "C43",
+      "User_ID": "U169",
+      "Producto": "Camiseta",
+      "Cantidad": 4,
+      "Precio_Unitario": 398,
+      "Fecha_Anadido": "2023-06-03 00:00:00"
+  },
+  {
+      "Carrito_ID": "C44",
+      "User_ID": "U147",
+      "Producto": "Reloj",
+      "Cantidad": 2,
+      "Precio_Unitario": 458,
+      "Fecha_Anadido": "2023-07-05 00:00:00"
+  },
+  {
+      "Carrito_ID": "C45",
+      "User_ID": "U091",
+      "Producto": "Reloj",
+      "Cantidad": 1,
+      "Precio_Unitario": 20,
+      "Fecha_Anadido": "2023-05-11 00:00:00"
+  },
+  {
+      "Carrito_ID": "C46",
+      "User_ID": "U001",
+      "Producto": "Reloj",
+      "Cantidad": 3,
+      "Precio_Unitario": 266,
+      "Fecha_Anadido": "2023-01-03 00:00:00"
+  },
+  {
+      "Carrito_ID": "C47",
+      "User_ID": "U192",
+      "Producto": "Reloj",
+      "Cantidad": 4,
+      "Precio_Unitario": 138,
+      "Fecha_Anadido": "2023-06-06 00:00:00"
+  },
+  {
+      "Carrito_ID": "C48",
+      "User_ID": "U091",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 346,
+      "Fecha_Anadido": "2023-01-03 00:00:00"
+  },
+  {
+      "Carrito_ID": "C49",
+      "User_ID": "U117",
+      "Producto": "Smartphone",
+      "Cantidad": 2,
+      "Precio_Unitario": 398,
+      "Fecha_Anadido": "2023-02-14 00:00:00"
+  },
+  {
+      "Carrito_ID": "C50",
+      "User_ID": "U184",
+      "Producto": "Bicicleta",
+      "Cantidad": 2,
+      "Precio_Unitario": 231,
+      "Fecha_Anadido": "2023-06-24 00:00:00"
+  },
+  {
+      "Carrito_ID": "C51",
+      "User_ID": "U145",
+      "Producto": "Bicicleta",
+      "Cantidad": 3,
+      "Precio_Unitario": 366,
+      "Fecha_Anadido": "2023-08-30 00:00:00"
+  },
+  {
+      "Carrito_ID": "C52",
+      "User_ID": "U167",
+      "Producto": "Reloj",
+      "Cantidad": 4,
+      "Precio_Unitario": 300,
+      "Fecha_Anadido": "2023-06-24 00:00:00"
+  },
+  {
+      "Carrito_ID": "C53",
+      "User_ID": "U170",
+      "Producto": "Sofa",
+      "Cantidad": 3,
+      "Precio_Unitario": 430,
+      "Fecha_Anadido": "2023-10-04 00:00:00"
+  },
+  {
+      "Carrito_ID": "C54",
+      "User_ID": "U074",
+      "Producto": "Smartphone",
+      "Cantidad": 3,
+      "Precio_Unitario": 340,
+      "Fecha_Anadido": "2023-07-19 00:00:00"
+  },
+  {
+      "Carrito_ID": "C55",
+      "User_ID": "U063",
+      "Producto": "Sofa",
+      "Cantidad": 3,
+      "Precio_Unitario": 185,
+      "Fecha_Anadido": "2023-08-07 00:00:00"
+  },
+  {
+      "Carrito_ID": "C56",
+      "User_ID": "U027",
+      "Producto": "Camiseta",
+      "Cantidad": 1,
+      "Precio_Unitario": 74,
+      "Fecha_Anadido": "2023-07-14 00:00:00"
+  },
+  {
+      "Carrito_ID": "C57",
+      "User_ID": "U102",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 255,
+      "Fecha_Anadido": "2023-01-11 00:00:00"
+  },
+  {
+      "Carrito_ID": "C58",
+      "User_ID": "U016",
+      "Producto": "Reloj",
+      "Cantidad": 3,
+      "Precio_Unitario": 87,
+      "Fecha_Anadido": "2023-02-10 00:00:00"
+  },
+  {
+      "Carrito_ID": "C59",
+      "User_ID": "U027",
+      "Producto": "Reloj",
+      "Cantidad": 2,
+      "Precio_Unitario": 402,
+      "Fecha_Anadido": "2023-12-21 00:00:00"
+  },
+  {
+      "Carrito_ID": "C60",
+      "User_ID": "U121",
+      "Producto": "Reloj",
+      "Cantidad": 2,
+      "Precio_Unitario": 389,
+      "Fecha_Anadido": "2023-04-25 00:00:00"
+  },
+  {
+      "Carrito_ID": "C61",
+      "User_ID": "U180",
+      "Producto": "Reloj",
+      "Cantidad": 1,
+      "Precio_Unitario": 399,
+      "Fecha_Anadido": "2023-03-03 00:00:00"
+  },
+  {
+      "Carrito_ID": "C62",
+      "User_ID": "U077",
+      "Producto": "Reloj",
+      "Cantidad": 1,
+      "Precio_Unitario": 375,
+      "Fecha_Anadido": "2023-07-26 00:00:00"
+  },
+  {
+      "Carrito_ID": "C63",
+      "User_ID": "U157",
+      "Producto": "Smartphone",
+      "Cantidad": 4,
+      "Precio_Unitario": 25,
+      "Fecha_Anadido": "2023-05-04 00:00:00"
+  },
+  {
+      "Carrito_ID": "C64",
+      "User_ID": "U137",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 176,
+      "Fecha_Anadido": "2023-06-27 00:00:00"
+  },
+  {
+      "Carrito_ID": "C65",
+      "User_ID": "U151",
+      "Producto": "Bicicleta",
+      "Cantidad": 1,
+      "Precio_Unitario": 168,
+      "Fecha_Anadido": "2023-06-01 00:00:00"
+  },
+  {
+      "Carrito_ID": "C66",
+      "User_ID": "U112",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 107,
+      "Fecha_Anadido": "2023-10-12 00:00:00"
+  },
+  {
+      "Carrito_ID": "C67",
+      "User_ID": "U118",
+      "Producto": "Sofa",
+      "Cantidad": 4,
+      "Precio_Unitario": 447,
+      "Fecha_Anadido": "2023-05-18 00:00:00"
+  },
+  {
+      "Carrito_ID": "C68",
+      "User_ID": "U062",
+      "Producto": "Camiseta",
+      "Cantidad": 4,
+      "Precio_Unitario": 315,
+      "Fecha_Anadido": "2023-04-15 00:00:00"
+  },
+  {
+      "Carrito_ID": "C69",
+      "User_ID": "U098",
+      "Producto": "Camiseta",
+      "Cantidad": 1,
+      "Precio_Unitario": 154,
+      "Fecha_Anadido": "2023-09-15 00:00:00"
+  },
+  {
+      "Carrito_ID": "C70",
+      "User_ID": "U115",
+      "Producto": "Sofa",
+      "Cantidad": 2,
+      "Precio_Unitario": 108,
+      "Fecha_Anadido": "2023-05-27 00:00:00"
+  },
+  {
+      "Carrito_ID": "C71",
+      "User_ID": "U103",
+      "Producto": "Reloj",
+      "Cantidad": 4,
+      "Precio_Unitario": 381,
+      "Fecha_Anadido": "2023-09-17 00:00:00"
+  },
+  {
+      "Carrito_ID": "C72",
+      "User_ID": "U155",
+      "Producto": "Bicicleta",
+      "Cantidad": 1,
+      "Precio_Unitario": 371,
+      "Fecha_Anadido": "2023-04-03 00:00:00"
+  },
+  {
+      "Carrito_ID": "C73",
+      "User_ID": "U010",
+      "Producto": "Sofa",
+      "Cantidad": 1,
+      "Precio_Unitario": 107,
+      "Fecha_Anadido": "2023-03-09 00:00:00"
+  },
+  {
+      "Carrito_ID": "C74",
+      "User_ID": "U092",
+      "Producto": "Reloj",
+      "Cantidad": 4,
+      "Precio_Unitario": 327,
+      "Fecha_Anadido": "2023-04-11 00:00:00"
+  },
+  {
+      "Carrito_ID": "C75",
+      "User_ID": "U148",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 37,
+      "Fecha_Anadido": "2023-07-23 00:00:00"
+  },
+  {
+      "Carrito_ID": "C76",
+      "User_ID": "U195",
+      "Producto": "Bicicleta",
+      "Cantidad": 2,
+      "Precio_Unitario": 182,
+      "Fecha_Anadido": "2023-10-07 00:00:00"
+  },
+  {
+      "Carrito_ID": "C77",
+      "User_ID": "U034",
+      "Producto": "Camiseta",
+      "Cantidad": 1,
+      "Precio_Unitario": 235,
+      "Fecha_Anadido": "2023-11-02 00:00:00"
+  },
+  {
+      "Carrito_ID": "C78",
+      "User_ID": "U176",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 248,
+      "Fecha_Anadido": "2023-11-19 00:00:00"
+  },
+  {
+      "Carrito_ID": "C79",
+      "User_ID": "U154",
+      "Producto": "Bicicleta",
+      "Cantidad": 2,
+      "Precio_Unitario": 199,
+      "Fecha_Anadido": "2023-10-27 00:00:00"
+  },
+  {
+      "Carrito_ID": "C80",
+      "User_ID": "U082",
+      "Producto": "Camiseta",
+      "Cantidad": 3,
+      "Precio_Unitario": 284,
+      "Fecha_Anadido": "2023-12-09 00:00:00"
+  },
+  {
+      "Carrito_ID": "C81",
+      "User_ID": "U089",
+      "Producto": "Smartphone",
+      "Cantidad": 4,
+      "Precio_Unitario": 166,
+      "Fecha_Anadido": "2023-10-06 00:00:00"
+  },
+  {
+      "Carrito_ID": "C82",
+      "User_ID": "U067",
+      "Producto": "Smartphone",
+      "Cantidad": 4,
+      "Precio_Unitario": 387,
+      "Fecha_Anadido": "2023-05-17 00:00:00"
+  },
+  {
+      "Carrito_ID": "C83",
+      "User_ID": "U154",
+      "Producto": "Reloj",
+      "Cantidad": 4,
+      "Precio_Unitario": 128,
+      "Fecha_Anadido": "2023-06-22 00:00:00"
+  },
+  {
+      "Carrito_ID": "C84",
+      "User_ID": "U124",
+      "Producto": "Sofa",
+      "Cantidad": 3,
+      "Precio_Unitario": 176,
+      "Fecha_Anadido": "2023-02-10 00:00:00"
+  },
+  {
+      "Carrito_ID": "C85",
+      "User_ID": "U167",
+      "Producto": "Reloj",
+      "Cantidad": 3,
+      "Precio_Unitario": 368,
+      "Fecha_Anadido": "2023-05-24 00:00:00"
+  },
+  {
+      "Carrito_ID": "C86",
+      "User_ID": "U159",
+      "Producto": "Sofa",
+      "Cantidad": 4,
+      "Precio_Unitario": 187,
+      "Fecha_Anadido": "2023-01-21 00:00:00"
+  },
+  {
+      "Carrito_ID": "C87",
+      "User_ID": "U058",
+      "Producto": "Smartphone",
+      "Cantidad": 4,
+      "Precio_Unitario": 21,
+      "Fecha_Anadido": "2023-11-25 00:00:00"
+  },
+  {
+      "Carrito_ID": "C88",
+      "User_ID": "U094",
+      "Producto": "Reloj",
+      "Cantidad": 3,
+      "Precio_Unitario": 81,
+      "Fecha_Anadido": "2023-02-28 00:00:00"
+  },
+  {
+      "Carrito_ID": "C89",
+      "User_ID": "U170",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 444,
+      "Fecha_Anadido": "2023-10-28 00:00:00"
+  },
+  {
+      "Carrito_ID": "C90",
+      "User_ID": "U033",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 56,
+      "Fecha_Anadido": "2023-07-08 00:00:00"
+  },
+  {
+      "Carrito_ID": "C91",
+      "User_ID": "U176",
+      "Producto": "Camiseta",
+      "Cantidad": 2,
+      "Precio_Unitario": 471,
+      "Fecha_Anadido": "2023-06-17 00:00:00"
+  },
+  {
+      "Carrito_ID": "C92",
+      "User_ID": "U188",
+      "Producto": "Bicicleta",
+      "Cantidad": 4,
+      "Precio_Unitario": 494,
+      "Fecha_Anadido": "2023-11-02 00:00:00"
+  },
+  {
+      "Carrito_ID": "C93",
+      "User_ID": "U124",
+      "Producto": "Sofa",
+      "Cantidad": 4,
+      "Precio_Unitario": 303,
+      "Fecha_Anadido": "2023-11-21 00:00:00"
+  },
+  {
+      "Carrito_ID": "C94",
+      "User_ID": "U163",
+      "Producto": "Reloj",
+      "Cantidad": 1,
+      "Precio_Unitario": 443,
+      "Fecha_Anadido": "2023-01-07 00:00:00"
+  },
+  {
+      "Carrito_ID": "C95",
+      "User_ID": "U177",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 469,
+      "Fecha_Anadido": "2023-06-22 00:00:00"
+  },
+  {
+      "Carrito_ID": "C96",
+      "User_ID": "U147",
+      "Producto": "Smartphone",
+      "Cantidad": 1,
+      "Precio_Unitario": 265,
+      "Fecha_Anadido": "2023-12-16 00:00:00"
+  },
+  {
+      "Carrito_ID": "C97",
+      "User_ID": "U117",
+      "Producto": "Bicicleta",
+      "Cantidad": 3,
+      "Precio_Unitario": 490,
+      "Fecha_Anadido": "2023-12-19 00:00:00"
+  },
+  {
+      "Carrito_ID": "C98",
+      "User_ID": "U141",
+      "Producto": "Camiseta",
+      "Cantidad": 4,
+      "Precio_Unitario": 53,
+      "Fecha_Anadido": "2023-09-19 00:00:00"
+  },
+  {
+      "Carrito_ID": "C99",
+      "User_ID": "U183",
+      "Producto": "Bicicleta",
+      "Cantidad": 4,
+      "Precio_Unitario": 34,
+      "Fecha_Anadido": "2023-10-30 00:00:00"
+  },
+  {
+      "Carrito_ID": "C100",
+      "User_ID": "U149",
+      "Producto": "Reloj",
+      "Cantidad": 4,
+      "Precio_Unitario": 424,
+      "Fecha_Anadido": "2023-01-13 00:00:00"
+  }
+]
